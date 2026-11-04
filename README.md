@@ -2,6 +2,11 @@
 
 Independent English-language guide at https://fortniteshoptoken.top.
 
+Cloudflare Pages project: `fortniteshoptoken-top`.
+Hosted site: https://fortniteshoptoken-top.pages.dev.
+The GitHub integration is connected and production deployments are enabled for `main`.
+The custom domain is registered with Pages; DNS activation is managed separately in Cloudflare.
+
 ## Local development
 
 Use Node 20 and the committed npm lockfile:
