@@ -1,8 +1,8 @@
 const links = [
+  { href: '/pirate-shop-token-drop-rate/', label: 'Odds calculator' },
   { href: '/how-to-get-pirate-shop-token/', label: 'Get the token' },
-  { href: '/pirate-shop-token-drop-rate/', label: 'Drop rates' },
   { href: '/best-farming-spots/', label: 'Farming' },
-  { href: '/how-to-activate-pirate-shop-access/', label: 'Activation' },
+  { href: '/how-to-activate-pirate-shop-access/', label: 'Activation planner' },
 ]
 
 export default function Header() {

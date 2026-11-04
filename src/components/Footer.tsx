@@ -9,10 +9,10 @@ export default function Footer() {
         <nav className="footer-links" aria-label="All guides">
           <span className="footer-label">THE FIELD GUIDE</span>
           <a href="/how-to-get-pirate-shop-token/">How to get the token</a>
-          <a href="/pirate-shop-token-drop-rate/">Drop rates &amp; odds</a>
+          <a href="/pirate-shop-token-drop-rate/">Odds calculator &amp; probability curves</a>
           <a href="/best-farming-spots/">Farming routes</a>
           <a href="/what-is-pirate-shop-token/">What is Pirate Shop Access?</a>
-          <a href="/how-to-activate-pirate-shop-access/">Activate your access</a>
+          <a href="/how-to-activate-pirate-shop-access/">Activation date planner</a>
         </nav>
         <nav className="footer-links" aria-label="Site information">
           <span className="footer-label">ABOUT THIS SITE</span>

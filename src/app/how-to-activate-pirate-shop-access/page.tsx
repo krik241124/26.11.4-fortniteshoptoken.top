@@ -1,21 +1,23 @@
 import { metadataFor, sources } from '@/lib/site';
 import ArticleLayout from '@/components/ArticleLayout';
+import ActivationPlanner from '@/components/ActivationPlanner';
 
 const path = '/how-to-activate-pirate-shop-access/';
 export const metadata = metadataFor(
-  'How to Activate Pirate Shop Access in Fortnite',
-  'Find the Pirate Shop banner, review the activation terms, start the 14-day window and check restrictions. Includes the reported 2026 deadline.',
+  'Pirate Shop Activation Planner: Your 14-Day Access Window',
+  'Plan a Pirate Shop activation date, calculate your exact 14-day window in UTC, check the reported deadline, and review eligible items before starting.',
   path,
 );
 
 export default function ActivationPage() {
   return (
     <ArticleLayout
-      title="How to activate Pirate Shop Access"
+      title="Plan and activate Pirate Shop Access"
       intro="Once the reward is in your account, use the Pirate Shop banner in the Item Shop to review and activate it. The 14-day clock begins when you confirm activation."
       path={path}
       category="Activation guide"
       sections={[
+        { id: 'planner', label: 'Plan your 14 days' },
         { id: 'before-activation', label: 'Before you start' },
         { id: 'activation-steps', label: 'Activation steps' },
         { id: 'timing', label: 'Dates and the 14-day clock' },
@@ -28,6 +30,7 @@ export default function ActivationPage() {
         { href: '/#faq', title: 'Read the frequently asked questions' },
       ]}
     >
+      <section id="planner"><p className="section-kicker">YOUR DATES / YOUR WINDOW</p><h2>Plan before you activate</h2><ActivationPlanner /><p className="source-note">The reported 2026 deadline and duration appear in the activation terms reproduced in <a href={sources.beebom}>Beebom’s guide</a>. This tool does not activate anything or set an account reminder.</p></section>
       <section id="before-activation">
         <h2>Check these things before you start</h2>
         <p>First confirm that you actually received Pirate Shop Access. Opening the Item Shop or finding the banner does not itself award a token. If you are still searching, use the <a href="/how-to-get-pirate-shop-token/">acquisition guide</a> first.</p>
@@ -45,7 +48,7 @@ export default function ActivationPage() {
           <li><strong>Check the active status.</strong> Review an eligible item&apos;s claim screen and confirm it is offered free before completing the claim.</li>
         </ol>
         <p>The banner&apos;s position and controller prompts may differ by platform or interface update. Follow the labels in your game rather than relying on a fixed screen corner or a specific controller button.</p>
-        <p className="source-note">The activation panel and workflow are shown in <a href={sources.beebom}>Beebom&apos;s activation screenshot</a>. The in-game terms shown on your own account take priority if the interface changes.</p>
+        <p className="source-note">The activation panel and workflow are shown in <a href={sources.beebom}>Beebom&apos;s guide and its reproduced activation screen</a>. The in-game terms shown on your own account take priority if the interface changes.</p>
       </section>
 
       <section id="timing">
@@ -53,7 +56,7 @@ export default function ActivationPage() {
         <p>The 2026 reward has a reported activation deadline of December 15, 2026. The game screenshot reviewed shows 6 PM GMT−6; check your account&apos;s displayed time rather than treating the date as midnight in your own region.</p>
         <p>The 14-day claim window is measured from activation. It is separate from the deadline for starting access and from the season&apos;s event schedule. Once active, the shop can change during that period, so check what is available when you play.</p>
         <p>A second activation is for 2027. Review its availability and deadline in-game when it becomes usable; do not assume the 2026 token&apos;s screen tells you every rule for next year.</p>
-        <p className="source-note">See <a href={sources.gamesradar}>GamesRadar&apos;s dates and reward explanation</a> and the <a href={sources.beebom}>pictured activation terms</a>.</p>
+        <p className="source-note">See <a href={sources.gamesradar}>GamesRadar&apos;s dates and reward explanation</a> and the <a href={sources.beebom}>activation terms reproduced in Beebom’s guide</a>.</p>
       </section>
 
       <section id="missing-banner">
@@ -64,6 +67,7 @@ export default function ActivationPage() {
 
       <section id="after-activation">
         <h2>Claim only eligible items</h2>
+        <div className="table-scroll" tabIndex={0} role="region" aria-label="Eligible and excluded rewards"><table className="odds-table"><caption>Check the offer in your account before claiming</caption><thead><tr><th scope="col">Eligible, subject to in-game terms</th><th scope="col">Not included</th></tr></thead><tbody><tr><td>Eligible outfits and other V-Bucks cosmetics</td><td>Real-money purchases</td></tr><tr><td>Eligible emotes and Jam Tracks</td><td>Gifts and transferring access</td></tr><tr><td>One Sidekick you do not already own</td><td>Pass levels and pass rewards</td></tr></tbody></table></div>
         <p>Real-money offers, gifting, and pass levels or rewards are excluded. The terms also limit free Sidekicks to one you do not already own. Read the <a href="/what-is-pirate-shop-token/">full overview of included items and restrictions</a> if you are unsure.</p>
         <p>The access period does not mean every Fortnite cosmetic is available at once. Choose from the eligible offers in the shop while your window is active, and verify each confirmation screen before completing a claim.</p>
       </section>

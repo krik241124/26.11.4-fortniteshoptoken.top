@@ -32,7 +32,7 @@ export default function WhatIsPage() {
         <h2>What does Pirate Shop Access do?</h2>
         <p>After you activate it, eligible items normally sold for V-Bucks in the Fortnite Item Shop can be claimed free for 14 days. Items you claim remain in your collection afterward, according to published coverage. The temporary part is the claim window, not a two-week rental of the cosmetics.</p>
         <p>This does not mean the entire catalogue of every Fortnite cosmetic becomes available. You still choose from the items offered in the shop during your active window, subject to the reward&apos;s exclusions.</p>
-        <p className="source-note">See <a href={sources.esports}>Esports.gg&apos;s Pirate Shop overview</a> and the rules shown in <a href={sources.beebom}>Beebom&apos;s in-game screenshot</a>.</p>
+        <p className="source-note">See <a href={sources.esports}>Esports.gg&apos;s Pirate Shop overview</a> and the rules shown in <a href={sources.beebom}>Beebom&apos;s guide, which reproduces the in-game terms</a>.</p>
       </section>
 
       <section id="two-activations">

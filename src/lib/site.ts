@@ -8,15 +8,15 @@ export const sources = {
   forbes: 'https://www.forbes.com/sites/paultassi/2026/11/02/the-best-spot-to-farm-fortnites-pirate-shop-token/',
   vice: 'https://www.vice.com/en/article/fortnite-pirate-shop-token-chances-drop-rate/',
   esports: 'https://esports.gg/guides/fortnite/fortnite-pirate-shop/',
-  beebom: 'https://static.beebom.com/wp-content/uploads/2026/11/fn-activate-pirate-shop.jpg?w=1024',
+  beebom: 'https://beebom.com/fortnite-pirate-shop-guide/',
 };
 
 export const guides = [
   { href: '/how-to-get-pirate-shop-token/', title: 'How to get the token', description: 'Chest drops, squad sharing, and what happens when you find one.', label: '01 / ACQUISITION' },
-  { href: '/pirate-shop-token-drop-rate/', title: 'Drop rates & odds', description: 'Compare the claims. Calculate what each assumption really means.', label: '02 / PROBABILITY' },
+  { href: '/pirate-shop-token-drop-rate/', title: 'Odds calculator & curves', description: 'Use your own chest count, compare assumptions, and plan future sessions.', label: '02 / PROBABILITY' },
   { href: '/best-farming-spots/', title: 'Where to look', description: 'Reported locations and a practical way to plan a chest route.', label: '03 / FIELD NOTES' },
   { href: '/what-is-pirate-shop-token/', title: 'What the token unlocks', description: 'The 2026 and 2027 activations, eligible items, and limitations.', label: '04 / THE REWARD' },
-  { href: '/how-to-activate-pirate-shop-access/', title: 'Activate your access', description: 'Find the shop banner and choose when to start your 14 days.', label: '05 / ACTIVATION' },
+  { href: '/how-to-activate-pirate-shop-access/', title: 'Activation date planner', description: 'Calculate your 14-day window and check the reported deadline.', label: '05 / ACTIVATION' },
 ];
 
 export function metadataFor(title: string, description: string, path: string): Metadata {

@@ -219,6 +219,59 @@ main > .article { margin: 56px auto 96px; width: min(720px, calc(100% - 64px)); 
 .calculator output { display: block; }
 .calculator [role='alert'] { font-size: 13px; color: #f0c18b; }
 
+/* Tools expose inputs, model state and results without a game account. */
+.hero-art.hero-data { width: 100%; }
+.odds-preview { margin: 0; padding: 28px; background: var(--surface); border: 1px solid #425236; border-top: 3px solid var(--lime); border-radius: 6px; }
+.odds-preview h2 { font-size: 28px; margin-bottom: 22px; }
+.odds-preview .section-kicker { font-size: 9px; }
+.preview-input input { background: var(--ink); }
+.preview-scenario { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 10px 16px; align-items: center; padding-top: 24px; }
+.preview-scenario > span { font-size: 12px; line-height: 1.5; color: var(--text); }
+.preview-scenario > strong { font-size: 27px; line-height: 1.2; letter-spacing: -.035em; color: var(--lime); }
+.preview-meter { grid-column: 1 / -1; height: 5px; overflow: hidden; background: #34412e; }
+.preview-meter > span { display: block; height: 100%; background: var(--lime); }
+.quick-counts { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
+.quick-counts button, .reset-button { border: 1px solid var(--line); background: transparent; color: var(--text); padding: 7px 11px; border-radius: 4px; font-size: 12px; line-height: 1.5; }
+.quick-counts button[aria-pressed='true'] { border-color: var(--lime); color: var(--lime); background: #22301a; }
+.quick-counts button:hover, .reset-button:hover { border-color: var(--lime); color: var(--lime); }
+.quick-counts button:last-child { margin-left: auto; }
+.tool-toolbar { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; margin-bottom: 20px; }
+.tool-divider { border-top: 1px solid var(--line); padding-top: 28px; margin-top: 30px; }
+.tool-divider h3 { margin-bottom: 14px; }
+.model-state { display: flex; flex-wrap: wrap; gap: 8px 14px; font: 10px/1.6 'Courier New', monospace; color: var(--soft); }
+.model-state strong { font-weight: 400; overflow-wrap: anywhere; }
+.field select { max-width: 100%; text-overflow: ellipsis; }
+.field [aria-invalid='true'] { border-color: #dda876; }
+.result-card strong { overflow-wrap: anywhere; }
+.future-result > p { font-size: 14px; margin-bottom: 0; }
+.result-card strong.planner-date { font-size: 20px; line-height: 1.5; letter-spacing: -.02em; }
+.data-figure { margin: 28px 0 36px; }
+.data-figure figcaption h3 { margin-top: 0; }
+.data-figure figcaption p { font-size: 15px; }
+.chart-scroll { max-width: 100%; overflow-x: auto; border: 1px solid var(--line); border-radius: 6px; scrollbar-color: #516345 var(--surface); }
+.probability-svg { display: block; width: 100%; min-width: 560px; max-width: none; height: auto; }
+.chart-legend { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; list-style: none; padding: 0; margin: 20px 0; }
+.chart-legend li { display: flex; align-items: flex-start; gap: 10px; padding: 0; margin: 0; }
+.legend-line { width: 26px; flex: none; border-top-width: 3px; margin-top: 8px; }
+.chart-legend strong { display: block; font-size: 12px; }
+.chart-legend small { display: block; font-size: 10px; color: var(--soft); }
+.probability-table th, .probability-table td { white-space: nowrap; }
+.probability-table thead th { white-space: normal; min-width: 115px; }
+.probability-table td { font-variant-numeric: tabular-nums; }
+.probability-table tbody th { color: var(--paper); }
+
+@media (max-width: 700px) {
+  .hero-data { width: 100%; margin-top: 24px; }
+  .odds-preview { padding: 24px 20px; }
+  .odds-preview h2 { font-size: 26px; }
+  .preview-scenario > strong { font-size: 27px; }
+}
+@media (max-width: 520px) {
+  .odds-calculator .form-grid, .activation-planner .form-grid, .odds-calculator .result-grid, .activation-planner .result-grid { grid-template-columns: 1fr; }
+  .chart-legend { gap: 14px 8px; }
+  .chart-legend strong { font-size: 11px; }
+}
+
 .site-footer { border-top: 1px solid var(--line); background: #0a120f; }
 .footer-inner { width: min(1120px, calc(100% - 64px)); margin-inline: auto; display: grid; grid-template-columns: 1.3fr 1fr 1fr; gap: 40px; padding: 56px 0 28px; }
 .footer-brand p { color: var(--soft); font-size: 13px; line-height: 1.7; max-width: 220px; margin: 20px 0 0; }

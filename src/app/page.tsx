@@ -1,9 +1,9 @@
-import TokenArtwork from '@/components/TokenArtwork';
+import OddsPreview from '@/components/OddsPreview';
 import { guides, jsonLd, metadataFor, sources } from '@/lib/site';
 
 export const metadata = metadataFor(
-  'Fortnite Pirate Shop Token: Drop Rates, Chests & How to Get It',
-  'How to get Fortnite Pirate Shop Access, compare unconfirmed drop-rate estimates, plan chest routes, and activate your 14 days. Independent, sourced guide.',
+  'Fortnite Pirate Shop Token: Odds Calculator & Access Guide',
+  'Calculate hypothetical Pirate Shop Token odds, compare reported drop rates, and plan your 14-day access. Independent Fortnite tools with sourced guides.',
   '/'
 );
 
@@ -28,12 +28,12 @@ export default function Home() {
       <section className="hero" aria-labelledby="hero-title">
         <div className="hero-copy">
           <p className="eyebrow"><span className="status-dot" aria-hidden="true" />TREASURE HUNTERS / FIELD GUIDE 001</p>
-          <h1 id="hero-title" className="hero-title">Fortnite Pirate<br />Shop Token.<br /><span>The hunt, explained.</span></h1>
-          <p className="hero-summary">A rare chest drop. Fourteen days of eligible shop items. Here’s how to find Pirate Shop Access—and what we actually know about the odds.</p>
-          <div className="hero-actions"><a className="button button-primary" href="/how-to-get-pirate-shop-token/">How to get the token <span aria-hidden="true">↗</span></a><a className="button button-secondary" href="#drop-rates">Explore the odds <span aria-hidden="true">↓</span></a></div>
+          <h1 id="hero-title" className="hero-title">Fortnite Pirate<br />Shop Token.<br /><span>Make sense of<br />the odds.</span></h1>
+          <p className="hero-summary">Choose an assumed drop rate. See what your chest openings could mean. Then plan when to use your 14 days of shop access.</p>
+          <div className="hero-actions"><a className="button button-primary" href="/pirate-shop-token-drop-rate/#calculator">Calculate your odds <span aria-hidden="true">↗</span></a></div>
           <p className="status-line">Independent guide <span aria-hidden="true">·</span> Reviewed <time dateTime="2026-11-04">Nov 4, 2026</time></p>
         </div>
-        <div className="hero-art"><TokenArtwork /></div>
+        <div className="hero-art hero-data"><OddsPreview /></div>
       </section>
       <div className="guide-layout">
         <aside className="toc" aria-label="On this page"><details open><summary>THE FIELD NOTES</summary><nav>{contents.map(([id, label], index) => <a key={id} href={'#' + id}><span className="toc-number">0{index + 1}</span>{label}</a>)}</nav><p className="source-note">Game rules can change.<br />Your in-game terms take priority.</p></details></aside>
@@ -49,7 +49,7 @@ export default function Home() {
               <div><dt>2026 activation deadline</dt><dd>December 15 — check in-game terms</dd></div>
               <div><dt>Gifting</dt><dd>Not included</dd></div>
             </dl>
-            <p className="source-note">Mechanics reported by <a href={sources.gamesradar}>GamesRadar</a>; limitations shown in the <a href={sources.beebom}>in-game activation terms</a>. The December 5 finale and the December 15 activation deadline are different dates.</p>
+            <p className="source-note">Mechanics reported by <a href={sources.gamesradar}>GamesRadar</a>; limitations shown in the <a href={sources.beebom}>activation terms reproduced in Beebom’s guide</a>. The December 5 finale and the December 15 activation deadline are different dates.</p>
           </section>
           <section id="how-to-get">
             <p className="section-kicker">02 / ACQUISITION</p><h2 className="section-heading">Open chests. Watch for the access notification.</h2>
@@ -86,8 +86,8 @@ export default function Home() {
               <li><strong>Review the activation screen.</strong><p>Read the eligible items, exclusions, and the deadline displayed on your account.</p></li>
               <li><strong>Select Activate Now when ready.</strong><p>The 14-day period begins at activation. Do not assume time pauses when you log out.</p></li>
             </ol>
-            <p className="source-note">Based on <a href={sources.esports}>the reported activation flow</a> and <a href={sources.beebom}>the game’s confirmation screen</a>.</p>
-            <a className="text-link" href="/how-to-activate-pirate-shop-access/">Follow the activation guide <span aria-hidden="true">↗</span></a>
+            <p className="source-note">Based on <a href={sources.esports}>the reported activation flow</a> and <a href={sources.beebom}>Beebom’s activation guide</a>.</p>
+            <a className="text-link" href="/how-to-activate-pirate-shop-access/#planner">Plan your 14-day window <span aria-hidden="true">↗</span></a>
           </section>
           <section id="rewards">
             <p className="section-kicker">06 / THE REWARD</p><h2 className="section-heading">What access includes</h2>
@@ -95,7 +95,7 @@ export default function Home() {
               <div><h3>Eligible shop items</h3><ul><li>Eligible outfits and other V-Bucks cosmetics</li><li>Eligible emotes and Jam Tracks</li><li>One Sidekick you do not already own</li></ul></div>
               <div><h3>Outside the offer</h3><ul><li>Real-money purchases</li><li>Gifts to other players</li><li>Pass levels and pass rewards</li><li>Transferring the access reward</li></ul></div>
             </div>
-            <p className="source-note">Always confirm eligibility on the <a href={sources.beebom}>in-game terms screen</a>. Access does not mean every item in Fortnite is included.</p>
+            <p className="source-note">Always confirm eligibility on the <a href={sources.beebom}>activation terms in Beebom’s guide</a>. Access does not mean every item in Fortnite is included.</p>
             <a className="text-link" href="/what-is-pirate-shop-token/">Understand the two activations <span aria-hidden="true">↗</span></a>
           </section>
           <section id="faq">

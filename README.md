@@ -16,7 +16,7 @@ npm ci
 npm run dev
 ```
 
-Open http://localhost:3000. Build with `npm run build`; the deployable static site is `out/`. Run `npm run typecheck` for TypeScript checking. `next start` is not a static-export preview server.
+Open http://localhost:3000. Build with `npm run build`; the deployable static site is `out/`. Run `npm run typecheck` for TypeScript checking and `npm run test:tools` for the probability and date boundary checks. `next start` is not a static-export preview server.
 
 ## Routes
 
@@ -64,6 +64,18 @@ The privacy page describes both services. These IDs are public client identifier
 Sources and shared metadata live in `src/lib/site.ts`. Reviewed date: 2026-11-04; only change it after an editorial review. Ordinary chest drops, squad sharing, two activations and the 14-day window are attributed to reporting or published in-game terms. The December 5 finale and December 15 activation deadline are separate events. The 2027 window remains subject to the dates shown in-game.
 
 The 1/700,000 and 0.05% rates are explicitly unconfirmed. No chest-type probability table or guaranteed route is invented. The calculator uses `1 - (1 - p)^n` under independent, fixed-probability assumptions and is not an actual game prediction. No original chest-opening experiment has been conducted.
+
+## Tool upgrade (2026-11-04)
+
+- The homepage includes a working chest-count calculator, presets and a reset control.
+- The full calculator accepts reported assumptions or a custom percentage. It separates the model probability for past openings from future-session probability. The expected additional wait is `1/p`, never `1/p - previous failures`.
+- A calendar-based plan counts days from the selected start date up to, excluding, a target date. December 5 is the announced finale and a planning default, not a verified token drop cutoff. The initial static date is an editorial snapshot; after hydration, the start date uses the visitor's local calendar date.
+- Two inline SVG figures and an HTML probability table use the same probability functions. Rates of 1/100,000 and 1/10,000 are explicitly illustrative; they are not chest-type estimates.
+- The activation planner accepts UTC dates/times and adds 336 hours. The reported 2026 cutoff is December 16 at 00:00 UTC (December 15 at 18:00 GMT-6). It does not predict shop rotations, activate rewards or create reminders.
+- Beebom citations link to its article, not an image CDN. No third-party map, game screenshot or asset was copied.
+- `ContactEmail` uses Cloudflare's documented `email_off` HTML markers around every contact address. The zone-wide Email Obfuscation setting could not be accessed with the current OAuth authorization; the page-level exception is independent of that dashboard toggle.
+
+Design references informed immediate tool feedback, reset/error states and decision tables. They did not establish gameplay facts, traffic performance or ranking claims. All dependency versions are unchanged.
 
 The SVG token illustration and social preview are original editorial graphics, not game screenshots. All site images are local. Contact: support@fortniteshoptoken.top (verify that the mailbox receives mail before public launch).
 
