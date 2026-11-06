@@ -1,4 +1,5 @@
 const links = [
+  { href: '/fortnite-item-shop-today/', label: 'Item Shop Today' },
   { href: '/pirate-shop-token-drop-rate/', label: 'Odds calculator' },
   { href: '/how-to-get-pirate-shop-token/', label: 'Get the token' },
   { href: '/best-farming-spots/', label: 'Farming' },

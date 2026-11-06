@@ -1,5 +1,5 @@
 import OddsPreview from '@/components/OddsPreview';
-import { guides, jsonLd, metadataFor, sources } from '@/lib/site';
+import { guides, jsonLd, metadataFor, sources, siteUrl, illustrations, contentUpdatedOn } from '@/lib/site';
 
 export const metadata = metadataFor(
   'Fortnite Pirate Shop Token: Odds Calculator & Access Guide',
@@ -12,6 +12,8 @@ const questions = [
   { question: 'Is the Pirate Shop Token real?', answer: 'Yes. Pirate Shop Access is an in-game reward. Activate it through the Fortnite Item Shop after receiving it. This website is an independent guide and does not issue tokens or ask for your Epic account.' },
   { question: 'What is the actual drop rate?', answer: 'No official numerical drop rate has been confirmed in the sources reviewed here. The circulating 1 in 700,000 and 0.05% estimates are unverified claims, not a measured range of possible odds.' },
   { question: 'How long does Pirate Shop Access last?', answer: 'Each activation lasts 14 days. The 2026 access must be activated by the deadline shown in the game, reported as December 15. A second activation is for 2027; check the dates and terms on your account.' },
+  { question: 'Does opening more chests make the next chest more likely to drop a token?', answer: 'Not under the fixed-rate, independent-opening model used by our calculator. Past misses do not change the assumed probability for the next chest. No official pity mechanic is established in the sources reviewed here.' },
+  { question: 'Can I check the Item Shop without owning a token?', answer: 'Yes. Our Item Shop page lets anyone browse a dated catalogue of offers and V-Bucks prices. The catalogue does not grant Pirate Shop Access or establish whether an item is included in your account’s free claims.' },
 ];
 const contents = [
   ['quick-answer', 'The quick answer'], ['how-to-get', 'How to get a token'], ['drop-rates', 'The drop-rate debate'],
@@ -19,7 +21,16 @@ const contents = [
 ];
 
 export default function Home() {
+  const illustration = illustrations['/'];
   return <main id="main-content">
+    <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLd({
+      '@context': 'https://schema.org', '@type': 'WebPage', '@id': siteUrl + '/#webpage',
+      url: siteUrl + '/', name: 'Fortnite Pirate Shop Token: Odds Calculator & Access Guide',
+      isPartOf: { '@id': siteUrl + '/#website' }, publisher: { '@id': siteUrl + '/#organization' },
+      datePublished: '2026-11-04', dateModified: contentUpdatedOn, inLanguage: 'en',
+      primaryImageOfPage: { '@type': 'ImageObject', url: siteUrl + illustration.src, width: 1200, height: 675 },
+      about: { '@type': 'Thing', name: 'Fortnite Pirate Shop Access' },
+    }) }} />
     <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLd({
       '@context': 'https://schema.org', '@type': 'FAQPage',
       mainEntity: questions.map(item => ({ '@type': 'Question', name: item.question, acceptedAnswer: { '@type': 'Answer', text: item.answer } })),
@@ -31,10 +42,15 @@ export default function Home() {
           <h1 id="hero-title" className="hero-title">Fortnite Pirate<br />Shop Token.<br /><span>Make sense of<br />the odds.</span></h1>
           <p className="hero-summary">Choose an assumed drop rate. See what your chest openings could mean. Then plan when to use your 14 days of shop access.</p>
           <div className="hero-actions"><a className="button button-primary" href="/pirate-shop-token-drop-rate/#calculator">Calculate your odds <span aria-hidden="true">↗</span></a></div>
-          <p className="status-line">Independent guide <span aria-hidden="true">·</span> Reviewed <time dateTime="2026-11-04">Nov 4, 2026</time></p>
+          <p className="status-line">By <a href="/about/">Shop Token editorial</a> <span aria-hidden="true">·</span> Updated <time dateTime={contentUpdatedOn}>Nov 6, 2026</time></p>
+          <p className="source-note hero-review-note">Mechanics reviewed Nov 4 · <a href="/editorial-policy/">How we check sources</a></p>
         </div>
         <div className="hero-art hero-data"><OddsPreview /></div>
       </section>
+      <aside className="shop-entry" aria-labelledby="shop-entry-title">
+        <div><p className="section-kicker">NEW / SHOP BROWSER</p><h2 id="shop-entry-title">What’s in the Item Shop?</h2><p>Browse a dated catalogue with item artwork, V-Bucks prices and filters. Check its snapshot time before planning a claim.</p></div>
+        <a className="button button-primary" href="/fortnite-item-shop-today/">Browse Item Shop Today <span aria-hidden="true">↗</span></a>
+      </aside>
       <div className="guide-layout">
         <aside className="toc" aria-label="On this page"><details open><summary>THE FIELD NOTES</summary><nav>{contents.map(([id, label], index) => <a key={id} href={'#' + id}><span className="toc-number">0{index + 1}</span>{label}</a>)}</nav><p className="source-note">Game rules can change.<br />Your in-game terms take priority.</p></details></aside>
         <article className="article">
@@ -49,8 +65,9 @@ export default function Home() {
               <div><dt>2026 activation deadline</dt><dd>December 15 — check in-game terms</dd></div>
               <div><dt>Gifting</dt><dd>Not included</dd></div>
             </dl>
-            <p className="source-note">Mechanics reported by <a href={sources.gamesradar}>GamesRadar</a>; limitations shown in the <a href={sources.beebom}>activation terms reproduced in Beebom’s guide</a>. The December 5 finale and the December 15 activation deadline are different dates.</p>
+            <p className="source-note"><span className="tag">Reported</span> Mechanics reported by <a href={sources.gamesradar}>GamesRadar</a>; limitations shown in the <a href={sources.beebom}>activation terms reproduced in Beebom’s guide</a>. The December 5 finale and the December 15 activation deadline are different dates.</p>
           </section>
+          <figure className="editorial-figure"><a href={illustration.src} aria-label="Open the full-size token overview diagram"><img src={illustration.src} width={illustration.width} height={illustration.height} alt={illustration.alt} loading="lazy" decoding="async" /></a><figcaption>{illustration.caption} <a href={illustration.src}>View full-size diagram</a>.</figcaption></figure>
           <section id="how-to-get">
             <p className="section-kicker">02 / ACQUISITION</p><h2 className="section-heading">Open chests. Watch for the access notification.</h2>
             <ol className="steps">
@@ -87,7 +104,7 @@ export default function Home() {
               <li><strong>Select Activate Now when ready.</strong><p>The 14-day period begins at activation. Do not assume time pauses when you log out.</p></li>
             </ol>
             <p className="source-note">Based on <a href={sources.esports}>the reported activation flow</a> and <a href={sources.beebom}>Beebom’s activation guide</a>.</p>
-            <a className="text-link" href="/how-to-activate-pirate-shop-access/#planner">Plan your 14-day window <span aria-hidden="true">↗</span></a>
+            <a className="text-link" href="/how-to-activate-pirate-shop-access/#planner">Activate Pirate Shop Access: plan your 14-day window <span aria-hidden="true">↗</span></a>
           </section>
           <section id="rewards">
             <p className="section-kicker">06 / THE REWARD</p><h2 className="section-heading">What access includes</h2>
@@ -105,6 +122,15 @@ export default function Home() {
           <section id="guides">
             <p className="section-kicker">THE COMPLETE FIELD GUIDE</p><h2 className="section-heading">Go deeper on your next question.</h2>
             <div className="guide-list">{guides.map(guide => <a className="guide-link" href={guide.href} key={guide.href}><span><small>{guide.label}</small><strong>{guide.title}</strong><span>{guide.description}</span></span><span aria-hidden="true">↗</span></a>)}</div>
+          </section>
+          <section aria-labelledby="source-guide-title">
+            <p className="section-kicker">EVIDENCE / READ THE ORIGINAL</p><h2 id="source-guide-title">Where these explanations come from</h2>
+            <ul className="evidence-list">
+              <li><span className="tag">Official</span> <a href={sources.epic}>Epic’s Treasure Hunters announcement</a> supplies event context. It does not verify either numerical drop-rate claim.</li>
+              <li><span className="tag">Reported</span> <a href={sources.gamesradar}>GamesRadar’s access guide</a> and <a href={sources.beebom}>Beebom’s reproduced activation terms</a> support the mechanism and exclusions discussed above.</li>
+              <li><span className="tag tag-estimate">Unconfirmed</span> <a href={sources.forbes}>Forbes</a> and <a href={sources.vice}>VICE</a> discuss circulating probability claims. The calculator models assumptions; it does not measure drops.</li>
+            </ul>
+            <p className="source-note">See our <a href="/editorial-policy/">editorial policy</a> for how we separate official statements, reporting and original calculations. Send a sourced correction through the <a href="/contact/">contact page</a>.</p>
           </section>
         </article>
       </div>

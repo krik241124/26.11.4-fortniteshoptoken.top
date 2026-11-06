@@ -71,6 +71,8 @@ sup { font-size: .65em; }
 .desktop-nav { display: flex; gap: 30px; align-items: center; }
 .desktop-nav a { font-size: 14px; color: var(--text); text-decoration: none; padding-block: 12px; }
 .desktop-nav a:hover { color: var(--lime); }
+.desktop-nav { gap: 22px; }
+.desktop-nav a:first-child { color: var(--lime); }
 .mobile-menu { display: none; }
 
 /* The illustration and typography set the field-guide tone. */
@@ -89,6 +91,20 @@ sup { font-size: .65em; }
 .status-line { display: flex; align-items: center; flex-wrap: wrap; gap: 10px; margin: 27px 0 0; font-size: 11px; font-family: 'Courier New', monospace; color: var(--soft); line-height: 1.7; }
 .status-line span + span::before { content: '·'; padding-right: 10px; }
 .hero-art { min-width: 0; align-self: center; }
+.hero-review-note { margin-top: 8px; font-size: 12px; }
+.editorial-figure { margin: 0 0 42px; padding: 0; }
+.editorial-figure img { display: block; width: 100%; height: auto; border: 1px solid var(--line); border-radius: 12px; }
+.editorial-figure figcaption { margin-top: 12px; color: var(--soft); font-size: 13px; line-height: 1.65; }
+.shop-entry { display: flex; align-items: center; justify-content: space-between; gap: 32px; padding: 28px 32px; margin: 0 0 44px; background: var(--surface); border: 1px solid var(--line); border-left: 3px solid var(--lime); border-radius: 8px; }
+.shop-entry .section-kicker { margin-bottom: 8px; }
+.shop-entry h2 { margin-bottom: 10px; font-size: 27px; }
+.shop-entry p:last-child { max-width: 630px; margin-bottom: 0; font-size: 15px; }
+.shop-entry .button { flex-shrink: 0; }
+.evidence-list { list-style: none; padding: 0; }
+.evidence-list li { padding: 16px 0; border-bottom: 1px solid var(--line); }
+.evidence-list .tag { margin-right: 6px; }
+@media (max-width: 900px) { .desktop-nav { gap: 14px; } .desktop-nav a { font-size: 12px; } }
+@media (max-width: 700px) { .shop-entry { flex-direction: column; align-items: flex-start; padding: 24px; } }
 .token-artwork { width: 100%; max-width: 480px; margin-inline: auto; }
 .token-artwork svg { display: block; width: 100%; }
 .art-caption { color: var(--soft); text-align: center; font-size: 9px; letter-spacing: .04em; margin: -7px 0 0; }

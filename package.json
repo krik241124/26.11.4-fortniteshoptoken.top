@@ -9,7 +9,10 @@
     "lint": "eslint src",
     "format": "biome format --write src",
     "typecheck": "tsc --noEmit",
-    "test:tools": "node scripts/test-tools.cjs"
+    "test:tools": "node scripts/test-tools.cjs",
+    "test:shop": "node scripts/test-shop.cjs",
+    "update:shop": "node scripts/fetch-shop.cjs",
+    "images:guides": "node scripts/generate-guide-images.cjs"
   },
   "dependencies": {
     "@radix-ui/react-checkbox": "^1.3.3",

@@ -3,7 +3,7 @@ import Script from 'next/script';
 import './globals.css';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
-import { siteUrl } from '@/lib/site';
+import { jsonLd, siteUrl } from '@/lib/site';
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
@@ -14,9 +14,21 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return <html lang="en"><body>
+    <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLd({
+      '@context': 'https://schema.org', '@graph': [
+        { '@type': 'WebSite', '@id': siteUrl + '/#website', url: siteUrl + '/', name: 'Shop Token — Fortnite Field Guide',
+          description: 'Independent Fortnite guides and tools for Pirate Shop Access, probability, activation timing, and Item Shop listings.',
+          inLanguage: 'en', publisher: { '@id': siteUrl + '/#organization' } },
+        { '@type': 'Organization', '@id': siteUrl + '/#organization', name: 'Shop Token', url: siteUrl + '/',
+          logo: { '@type': 'ImageObject', '@id': siteUrl + '/#logo', url: siteUrl + '/logo-512.png', contentUrl: siteUrl + '/logo-512.png', width: 512, height: 512 },
+          publishingPrinciples: siteUrl + '/editorial-policy/' },
+        { '@type': 'Organization', '@id': siteUrl + '/#editorial', name: 'Shop Token editorial', url: siteUrl + '/about/',
+          parentOrganization: { '@id': siteUrl + '/#organization' } },
+      ],
+    }) }} />
     <a className="skip-link" href="#main-content">Skip to content</a>
     <Header />{children}<Footer />
-    <Script id="clarity" strategy="afterInteractive">{`
+    <Script id="microsoft-clarity-bootstrap" strategy="afterInteractive">{`
       (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
         t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;

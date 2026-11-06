@@ -26,6 +26,8 @@ Open http://localhost:3000. Build with `npm run build`; the deployable static si
 - `/best-farming-spots/`
 - `/what-is-pirate-shop-token/`
 - `/how-to-activate-pirate-shop-access/`
+- `/fortnite-item-shop-today/` — searchable, dated shop inventory
+- `/editorial-policy/` — evidence labels, methodology and corrections
 - `/about/`, `/privacy/`, `/contact/`
 
 Every indexable page has an independent title, description, self-canonical, one H1, and real anchor links. The guide pages include breadcrumbs and Article structured data. The homepage FAQ structured data matches visible questions; rich-result eligibility or ranking is not promised. Sitemap and robots are generated at build time.
@@ -77,7 +79,17 @@ The 1/700,000 and 0.05% rates are explicitly unconfirmed. No chest-type probabil
 
 Design references informed immediate tool feedback, reset/error states and decision tables. They did not establish gameplay facts, traffic performance or ranking claims. All dependency versions are unchanged.
 
-The SVG token illustration and social preview are original editorial graphics, not game screenshots. All site images are local. Contact: support@fortniteshoptoken.top (verify that the mailbox receives mail before public launch).
+The SVG token illustration, social preview and guide diagrams are original editorial graphics, not game screenshots. Guide diagrams are local; shop artwork comes from the third-party API's image servers. Contact: support@fortniteshoptoken.top (verify that the mailbox receives mail before public launch).
+
+## Illustrated guides and shop MVP (2026-11-06)
+
+Seven original 1200×675 WebP diagrams have captions, alt text and explicit dimensions. Rebuild them with `npm run images:guides`; their reproducible SVG sources are in `assets/diagrams/`. Each is under 150 KB. `logo-512.png` is generated from the original logo. Guide Article and Open Graph metadata use the matching illustration. WebSite, Organization and editorial identity are linked by stable IDs; information pages use WebPage types. Dates distinguish presentation changes from gameplay-source review. FAQ markup only describes visible questions; Google no longer displays FAQ rich results. `llms.txt` is a directory, not a Google ranking requirement.
+
+The Item Shop page statically renders all offers in `src/data/item-shop.json`, including bundle contents and different cosmetic families. Search, filters, sort, budget, reset and countdowns work in the browser. V-Bucks prices are not converted to cash. The public third-party source is `https://fortnite-api.com/v2/shop?language=en`; it needs no key. Data is a snapshot, not an account or live checkout connection. Source time and retrieval time are displayed separately; older dates and expired offers are flagged.
+
+Run `npm run update:shop` to fetch and validate a snapshot, then `npm run test:shop` and `npm run build`. `.github/workflows/update-shop.yml` requests an update daily at 00:15 UTC (08:15 China time) and also supports manual dispatch. GitHub schedules can be delayed. Valid changed data is committed to main and the existing Cloudflare integration deploys it. No change means no timestamp-only commit. Failed requests, empty/invalid data and older snapshots do not replace good data. Check the Action and Cloudflare deployment if the public timestamp stops advancing; this schedule is best effort, not an uptime guarantee. No historical pages or cosmetic detail-page sprawl are generated in this MVP.
+
+Clarity's script element ID is `microsoft-clarity-bootstrap`. Do not change it to `clarity`: browser DOM named properties can expose that element as `window.clarity`, preventing the vendor bootstrap from creating its function. The project identifier remains `z8aax1xzlf`. Verify an actual successful POST to `/collect` after deployment, not just a 200 response for the tag script; dashboard receipt still needs account-side confirmation.
 
 ## Template migration
 

@@ -1,0 +1,41 @@
+name: Update item shop snapshot
+on:
+  schedule:
+    - cron: '15 0 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: item-shop-snapshot
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+      - run: npm ci
+      - name: Fetch and validate public API snapshot
+        run: node scripts/fetch-shop.cjs
+      - name: Test normalization, filters and dates
+        run: node scripts/test-shop.cjs
+      - name: Validate static build before publishing data
+        run: npm run build
+      - name: Commit changed snapshot for Cloudflare Pages deployment
+        shell: bash
+        run: |
+          if git diff --quiet -- src/data/item-shop.json; then
+            echo "No shop changes."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add src/data/item-shop.json
+          git commit -m 'data: refresh Fortnite item shop snapshot'
+          git push origin HEAD:main

@@ -1,0 +1,24 @@
+# Shop Token — Fortnite Field Guide
+
+> Independent Fortnite explanations and browser tools. This site is not affiliated with Epic Games. Pirate Shop Token probabilities are unconfirmed assumptions, not official drop rates.
+
+## Core pages
+
+- [Fortnite Shop Token guide](https://fortniteshoptoken.top/): Overview of reported Pirate Shop Access mechanics and links to the tools.
+- [Item Shop browser](https://fortniteshoptoken.top/fortnite-item-shop-today/): Latest saved third-party shop snapshot with source dates, item images, prices in V-Bucks, and filters. Confirm availability in Fortnite.
+- [How to get access](https://fortniteshoptoken.top/how-to-get-pirate-shop-token/): Reported chest rewards, squad sharing, and the acquisition checklist.
+- [Probability calculator](https://fortniteshoptoken.top/pirate-shop-token-drop-rate/): Hypothetical probabilities, expected waiting, and future opening plans under explicit assumptions.
+- [Activation planner](https://fortniteshoptoken.top/how-to-activate-pirate-shop-access/): A 336-hour UTC window and checks against the reported 2026 activation cutoff.
+- [Farming route planning](https://fortniteshoptoken.top/best-farming-spots/): Attributed location suggestions and a route-evaluation checklist; no verified spawn map or guaranteed drop route.
+- [Access rules](https://fortniteshoptoken.top/what-is-pirate-shop-token/): Reported eligible items, exclusions, and the distinction between finding and activating access.
+
+## Publishing information
+
+- [About](https://fortniteshoptoken.top/about/): Publishing byline, independence, and source approach.
+- [Editorial policy](https://fortniteshoptoken.top/editorial-policy/): Evidence labels, original graphics, update dates, and corrections.
+- [Contact](https://fortniteshoptoken.top/contact/): How to send source-backed corrections.
+- [Privacy](https://fortniteshoptoken.top/privacy/): Analytics, browser calculations, and contact information.
+
+## Interpretation
+
+Game-mechanics source reviews and editorial presentation updates have separate dates. Shop source dates are separate from fetch timestamps. Diagrams are explanatory artwork, not in-game screenshots. In-game terms and the official Fortnite Item Shop take precedence over this independent site.

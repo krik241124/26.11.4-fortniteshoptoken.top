@@ -8,6 +8,7 @@ export default function Footer() {
         </div>
         <nav className="footer-links" aria-label="All guides">
           <span className="footer-label">THE FIELD GUIDE</span>
+          <a href="/fortnite-item-shop-today/">Fortnite Item Shop Today</a>
           <a href="/how-to-get-pirate-shop-token/">How to get the token</a>
           <a href="/pirate-shop-token-drop-rate/">Odds calculator &amp; probability curves</a>
           <a href="/best-farming-spots/">Farming routes</a>
@@ -16,7 +17,8 @@ export default function Footer() {
         </nav>
         <nav className="footer-links" aria-label="Site information">
           <span className="footer-label">ABOUT THIS SITE</span>
-          <a href="/about/">About &amp; editorial policy</a>
+          <a href="/about/">About the editors</a>
+          <a href="/editorial-policy/">Editorial policy &amp; sources</a>
           <a href="/privacy/">Privacy</a>
           <a href="/contact/">Contact</a>
         </nav>
