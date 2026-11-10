@@ -1,16 +1,16 @@
 {
   "version": 1,
   "source": "https://fortnite-api.com/v2/shop?language=en",
-  "sourceDate": "2026-11-09T00:00:00.000Z",
-  "fetchedAt": "2026-11-09T06:30:51.765Z",
-  "sourceHash": "6d96250f83da46e5",
+  "sourceDate": "2026-11-10T00:00:00.000Z",
+  "fetchedAt": "2026-11-10T07:19:45.601Z",
+  "sourceHash": "2ea8228d1efd1630",
   "entries": [
     {
       "id": "8c5def1499c58b5cde1d",
       "name": "Therefore I Am",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -67,11 +67,38 @@
       ]
     },
     {
+      "id": "4868d44d5922c9e3d7c8",
+      "name": "Herald's Wand",
+      "section": "Peak Style",
+      "sectionRank": 185,
+      "sectionIndex": 6,
+      "finalPrice": 800,
+      "regularPrice": 800,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-11T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_107_plague/icon.png",
+      "isBundle": false,
+      "types": [
+        "Pickaxe"
+      ],
+      "rarities": [
+        "Rare"
+      ],
+      "items": [
+        {
+          "name": "Herald's Wand",
+          "type": "Pickaxe",
+          "rarity": "Rare",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "fa31c55ac16fab74366b",
       "name": "Surging Edge + 1 included item",
       "section": "Signal Boost",
-      "sectionRank": 187,
-      "sectionIndex": 24,
+      "sectionRank": 196,
+      "sectionIndex": 28,
       "finalPrice": 800,
       "regularPrice": 800,
       "inDate": "2026-11-04T00:00:00.000Z",
@@ -101,38 +128,11 @@
       ]
     },
     {
-      "id": "756a690e125c8b8ec4a6",
-      "name": "Scales",
-      "section": "Peak Style",
-      "sectionRank": 184,
-      "sectionIndex": 34,
-      "finalPrice": 1200,
-      "regularPrice": 1200,
-      "inDate": "2026-11-03T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/companion_talonscone/icon.png",
-      "isBundle": false,
-      "types": [
-        "Sidekick"
-      ],
-      "rarities": [
-        "Uncommon"
-      ],
-      "items": [
-        {
-          "name": "Scales",
-          "type": "Sidekick",
-          "rarity": "Uncommon",
-          "artist": null
-        }
-      ]
-    },
-    {
       "id": "80852f32ee8199a88d0a",
       "name": "Ben Tennyson",
       "section": "Ben 10",
-      "sectionRank": 186,
-      "sectionIndex": 33,
+      "sectionRank": 184,
+      "sectionIndex": 23,
       "finalPrice": 2000,
       "regularPrice": 2000,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -166,8 +166,8 @@
       "id": "4ba20eb542c7e0dcbe6a",
       "name": "Cyber Infiltration Pack",
       "section": "Treasure Hunters",
-      "sectionRank": 191,
-      "sectionIndex": 7,
+      "sectionRank": 190,
+      "sectionIndex": 16,
       "finalPrice": 2200,
       "regularPrice": 3600,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -224,8 +224,8 @@
       "id": "88b70e91fffe0fffe687",
       "name": "PPAP (Pen Pineapple Apple Pen) [Long Version]",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -251,8 +251,8 @@
       "id": "bfd05424110cf903e532",
       "name": "The Emptiness Machine",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -278,8 +278,8 @@
       "id": "c2faf2881b4e658683d9",
       "name": "Bloody Mary",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -302,11 +302,38 @@
       ]
     },
     {
+      "id": "76cd340c52bc32185495",
+      "name": "Driver",
+      "section": "Jacob's Pierogi Locker",
+      "sectionRank": 182,
+      "sectionIndex": 14,
+      "finalPrice": 500,
+      "regularPrice": 500,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-14T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_190_golfclub/icon.png",
+      "isBundle": false,
+      "types": [
+        "Pickaxe"
+      ],
+      "rarities": [
+        "Uncommon"
+      ],
+      "items": [
+        {
+          "name": "Driver",
+          "type": "Pickaxe",
+          "rarity": "Uncommon",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "ed5b02bc900f122f0822",
       "name": "Vader Samurai",
       "section": "Star Wars",
-      "sectionRank": 192,
-      "sectionIndex": 19,
+      "sectionRank": 188,
+      "sectionIndex": 30,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -332,8 +359,8 @@
       "id": "f9d6a5ec34cf97dfae73",
       "name": "Deadpool Gear Bundle",
       "section": "Deadpool Mashups",
-      "sectionRank": 188,
-      "sectionIndex": 15,
+      "sectionRank": 187,
+      "sectionIndex": 25,
       "finalPrice": 2000,
       "regularPrice": 3100,
       "inDate": "2026-11-08T00:00:00.000Z",
@@ -379,8 +406,8 @@
       "id": "c905b5fbf35c27d62806",
       "name": "In My Room",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-06T00:00:00.000Z",
@@ -403,65 +430,11 @@
       ]
     },
     {
-      "id": "1e00c6348a4dcf61f708",
-      "name": "Hard Case Hero",
-      "section": "Other offers",
-      "sectionRank": -1,
-      "sectionIndex": 12,
-      "finalPrice": 200,
-      "regularPrice": 200,
-      "inDate": "2026-11-03T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/bid_810_musician/icon.png",
-      "isBundle": false,
-      "types": [
-        "Back Bling"
-      ],
-      "rarities": [
-        "Rare"
-      ],
-      "items": [
-        {
-          "name": "Hard Case Hero",
-          "type": "Back Bling",
-          "rarity": "Rare",
-          "artist": null
-        }
-      ]
-    },
-    {
-      "id": "d92dee85393a95106133",
-      "name": "The Golden Daffy",
-      "section": "Space Jam",
-      "sectionRank": 183,
-      "sectionIndex": 20,
-      "finalPrice": 800,
-      "regularPrice": 800,
-      "inDate": "2026-11-06T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_notchgnarl/icon.png",
-      "isBundle": false,
-      "types": [
-        "Pickaxe"
-      ],
-      "rarities": [
-        "Rare"
-      ],
-      "items": [
-        {
-          "name": "The Golden Daffy",
-          "type": "Pickaxe",
-          "rarity": "Rare",
-          "artist": null
-        }
-      ]
-    },
-    {
       "id": "94a0e782d7bbef6dab2b",
       "name": "Rebel Authority",
       "section": "Other offers",
       "sectionRank": -1,
-      "sectionIndex": 14,
+      "sectionIndex": 13,
       "finalPrice": 800,
       "regularPrice": 800,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -487,8 +460,8 @@
       "id": "bbea2b715ac27114a828",
       "name": "LUNCH",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -514,8 +487,8 @@
       "id": "a4d1d128e9f417de1e9f",
       "name": "Chimichanga!",
       "section": "Deadpool Mashups",
-      "sectionRank": 188,
-      "sectionIndex": 15,
+      "sectionRank": 187,
+      "sectionIndex": 25,
       "finalPrice": 300,
       "regularPrice": 300,
       "inDate": "2026-11-08T00:00:00.000Z",
@@ -542,7 +515,7 @@
       "name": "Monkey D. Luffy + 3 included items",
       "section": "One Piece",
       "sectionRank": 198,
-      "sectionIndex": 13,
+      "sectionIndex": 10,
       "finalPrice": 1800,
       "regularPrice": 1800,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -591,8 +564,8 @@
       "id": "98ee2b6adff2a584ef61",
       "name": "Serge",
       "section": "Signal Boost",
-      "sectionRank": 187,
-      "sectionIndex": 24,
+      "sectionRank": 196,
+      "sectionIndex": 28,
       "finalPrice": 800,
       "regularPrice": 800,
       "inDate": "2026-11-04T00:00:00.000Z",
@@ -615,28 +588,69 @@
       ]
     },
     {
-      "id": "a05114351862eb35f28a",
-      "name": "Hatchback",
-      "section": "Other offers",
-      "sectionRank": -1,
-      "sectionIndex": 19,
-      "finalPrice": 300,
-      "regularPrice": 300,
-      "inDate": "2026-11-09T00:00:00.000Z",
-      "outDate": "2026-11-12T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/bid_154_feathers/icon.png",
-      "isBundle": false,
+      "id": "0972690746f082fa79ba",
+      "name": "Dark Tricera Ops + 1 included item",
+      "section": "Peak Style",
+      "sectionRank": 185,
+      "sectionIndex": 6,
+      "finalPrice": 1200,
+      "regularPrice": 1200,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-16T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/0702ef0acd6471b7/renderimage_0.png",
+      "isBundle": true,
       "types": [
+        "Outfit",
         "Back Bling"
       ],
       "rarities": [
-        "Epic"
+        "DARK SERIES"
       ],
       "items": [
         {
-          "name": "Hatchback",
+          "name": "Dark Tricera Ops",
+          "type": "Outfit",
+          "rarity": "DARK SERIES",
+          "artist": null
+        },
+        {
+          "name": "Dark Hatchling",
           "type": "Back Bling",
-          "rarity": "Epic",
+          "rarity": "DARK SERIES",
+          "artist": null
+        }
+      ]
+    },
+    {
+      "id": "b4c3930b86b2fa8ad1d9",
+      "name": "Budge + 1 included item",
+      "section": "Jacob's Pierogi Locker",
+      "sectionRank": 182,
+      "sectionIndex": 14,
+      "finalPrice": 1200,
+      "regularPrice": 1200,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-14T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/c44b982e7af9af5d/renderimage_0.png",
+      "isBundle": true,
+      "types": [
+        "Outfit",
+        "Back Bling"
+      ],
+      "rarities": [
+        "Rare"
+      ],
+      "items": [
+        {
+          "name": "Budge",
+          "type": "Outfit",
+          "rarity": "Rare",
+          "artist": null
+        },
+        {
+          "name": "Squawk Sack",
+          "type": "Back Bling",
+          "rarity": "Rare",
           "artist": null
         }
       ]
@@ -644,9 +658,9 @@
     {
       "id": "184ed40f5201c8c6a977",
       "name": "Mr. Brightside",
-      "section": "Victory Party",
-      "sectionRank": 195,
-      "sectionIndex": 25,
+      "section": "Groove Moves",
+      "sectionRank": 193,
+      "sectionIndex": 7,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -669,11 +683,38 @@
       ]
     },
     {
+      "id": "a05114351862eb35f28a",
+      "name": "Hatchback",
+      "section": "Other offers",
+      "sectionRank": -1,
+      "sectionIndex": 21,
+      "finalPrice": 300,
+      "regularPrice": 300,
+      "inDate": "2026-11-09T00:00:00.000Z",
+      "outDate": "2026-11-12T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/bid_154_feathers/icon.png",
+      "isBundle": false,
+      "types": [
+        "Back Bling"
+      ],
+      "rarities": [
+        "Epic"
+      ],
+      "items": [
+        {
+          "name": "Hatchback",
+          "type": "Back Bling",
+          "rarity": "Epic",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "efef0e2f27c98950f3e4",
       "name": "Giant Meat on the Bone",
       "section": "One Piece",
       "sectionRank": 198,
-      "sectionIndex": 13,
+      "sectionIndex": 10,
       "finalPrice": 800,
       "regularPrice": 800,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -699,8 +740,8 @@
       "id": "952bf3fb5ef938f6f1db",
       "name": "Social Spikebat & Satchel",
       "section": "Treasure Hunters",
-      "sectionRank": 191,
-      "sectionIndex": 7,
+      "sectionRank": 190,
+      "sectionIndex": 16,
       "finalPrice": 300,
       "regularPrice": 300,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -726,8 +767,8 @@
       "id": "0da64ed098fb93f72c2a",
       "name": "A$AP's Gauntlets",
       "section": "A$AP Rocky",
-      "sectionRank": 197,
-      "sectionIndex": 11,
+      "sectionRank": 195,
+      "sectionIndex": 31,
       "finalPrice": 800,
       "regularPrice": 800,
       "inDate": "2026-11-06T00:00:00.000Z",
@@ -750,11 +791,54 @@
       ]
     },
     {
+      "id": "c340c70a252c5ed5dab2",
+      "name": "Skeletor",
+      "section": "Masters of the Universe",
+      "sectionRank": 192,
+      "sectionIndex": 29,
+      "finalPrice": 1800,
+      "regularPrice": 1800,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-13T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/ab59aeefbfd4a083/renderimage_0.png",
+      "isBundle": true,
+      "types": [
+        "Outfit",
+        "Back Bling",
+        "Pickaxe"
+      ],
+      "rarities": [
+        "Epic",
+        "Legendary",
+        "Rare"
+      ],
+      "items": [
+        {
+          "name": "Skeletor",
+          "type": "Outfit",
+          "rarity": "Epic",
+          "artist": null
+        },
+        {
+          "name": "Skeletor's Cape",
+          "type": "Back Bling",
+          "rarity": "Legendary",
+          "artist": null
+        },
+        {
+          "name": "Skeletor's Weaponry",
+          "type": "Pickaxe",
+          "rarity": "Rare",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "21affb2dc83306fe3b42",
       "name": "Class President Nemia Bundle",
       "section": "Treasure Hunters",
-      "sectionRank": 191,
-      "sectionIndex": 7,
+      "sectionRank": 190,
+      "sectionIndex": 16,
       "finalPrice": 1800,
       "regularPrice": 2800,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -810,8 +894,8 @@
       "id": "4b4daef113ecaae7cafd",
       "name": "A Bar Song",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -838,7 +922,7 @@
       "name": "Ram 1500 RHO",
       "section": "Other offers",
       "sectionRank": -1,
-      "sectionIndex": 26,
+      "sectionIndex": 28,
       "finalPrice": 400,
       "regularPrice": 400,
       "inDate": "2026-11-08T00:00:00.000Z",
@@ -864,8 +948,8 @@
       "id": "b41c717b0865433628ac",
       "name": "Single Soon",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -888,11 +972,38 @@
       ]
     },
     {
+      "id": "567b57c3a68328528469",
+      "name": "emo girl",
+      "section": "Peak Style",
+      "sectionRank": 185,
+      "sectionIndex": 6,
+      "finalPrice": 500,
+      "regularPrice": 500,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-11T23:59:59.999Z",
+      "image": "https://cdn.fortnite-api.com/tracks/e6308fa22abf40f4.jpg",
+      "isBundle": false,
+      "types": [
+        "Jam Track"
+      ],
+      "rarities": [
+        "Not specified"
+      ],
+      "items": [
+        {
+          "name": "emo girl",
+          "type": "Jam Track",
+          "rarity": "Not specified",
+          "artist": "mgk ft. WILLOW"
+        }
+      ]
+    },
+    {
       "id": "c9fcd6955bc04d858351",
       "name": "Golden King's Cape",
       "section": "Other offers",
       "sectionRank": -1,
-      "sectionIndex": 28,
+      "sectionIndex": 31,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -915,11 +1026,38 @@
       ]
     },
     {
+      "id": "28cd16d7e71448e3e3aa",
+      "name": "Laugh of Power",
+      "section": "Masters of the Universe",
+      "sectionRank": 192,
+      "sectionIndex": 29,
+      "finalPrice": 400,
+      "regularPrice": 400,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-13T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/eid_rebeltempo/icon.png",
+      "isBundle": false,
+      "types": [
+        "Emote"
+      ],
+      "rarities": [
+        "Uncommon"
+      ],
+      "items": [
+        {
+          "name": "Laugh of Power",
+          "type": "Emote",
+          "rarity": "Uncommon",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "b2aeac13771eb5203cce",
       "name": "Multi-Punches Flex",
       "section": "One Piece",
       "sectionRank": 198,
-      "sectionIndex": 13,
+      "sectionIndex": 10,
       "finalPrice": 300,
       "regularPrice": 300,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -945,8 +1083,8 @@
       "id": "9105daa2d35dbcd832bd",
       "name": "Cheguei",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -972,8 +1110,8 @@
       "id": "5f514646a8b9d5078285",
       "name": "Boulevard of Broken Dreams",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -999,8 +1137,8 @@
       "id": "5c5a805b512e6dc657b8",
       "name": "Young, Wild & Free",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -1026,8 +1164,8 @@
       "id": "a4df1fb58fc5ba6cc787",
       "name": "Ascendant Midas + 1 included item",
       "section": "Treasure Hunters",
-      "sectionRank": 191,
-      "sectionIndex": 7,
+      "sectionRank": 190,
+      "sectionIndex": 16,
       "finalPrice": 2000,
       "regularPrice": 2000,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -1061,8 +1199,8 @@
       "id": "bcda2fac7470c1440d0b",
       "name": "A$AP Rocky Jam Bundle",
       "section": "A$AP Rocky",
-      "sectionRank": 197,
-      "sectionIndex": 11,
+      "sectionRank": 195,
+      "sectionIndex": 31,
       "finalPrice": 1100,
       "regularPrice": 1500,
       "inDate": "2026-11-06T00:00:00.000Z",
@@ -1100,8 +1238,8 @@
       "id": "ffe4f0393e37d9e6bdec",
       "name": "Elite Kado Thorne + 1 included item",
       "section": "Signal Boost",
-      "sectionRank": 187,
-      "sectionIndex": 24,
+      "sectionRank": 196,
+      "sectionIndex": 28,
       "finalPrice": 1200,
       "regularPrice": 1200,
       "inDate": "2026-11-05T00:00:00.000Z",
@@ -1132,11 +1270,45 @@
       ]
     },
     {
+      "id": "af5cd4ecefa8a9770e06",
+      "name": "Rally Raider + 1 included item",
+      "section": "No Sweat",
+      "sectionRank": 189,
+      "sectionIndex": 15,
+      "finalPrice": 1200,
+      "regularPrice": 1200,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-16T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/b2bdf3368802f93f/renderimage_0.png",
+      "isBundle": true,
+      "types": [
+        "Outfit",
+        "Back Bling"
+      ],
+      "rarities": [
+        "Rare"
+      ],
+      "items": [
+        {
+          "name": "Rally Raider",
+          "type": "Outfit",
+          "rarity": "Rare",
+          "artist": null
+        },
+        {
+          "name": "Weathered Wings",
+          "type": "Back Bling",
+          "rarity": "Rare",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "7c0c76644a113eb4a1ff",
       "name": "Jack's Sled",
       "section": "Gothic Lookbook",
-      "sectionRank": 185,
-      "sectionIndex": 16,
+      "sectionRank": 186,
+      "sectionIndex": 3,
       "finalPrice": 1200,
       "regularPrice": 1200,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -1163,7 +1335,7 @@
       "name": "Roasted Meat",
       "section": "One Piece",
       "sectionRank": 198,
-      "sectionIndex": 13,
+      "sectionIndex": 10,
       "finalPrice": 400,
       "regularPrice": 400,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -1189,8 +1361,8 @@
       "id": "68360f42125f779dc5de",
       "name": "Azmuth",
       "section": "Ben 10",
-      "sectionRank": 186,
-      "sectionIndex": 33,
+      "sectionRank": 184,
+      "sectionIndex": 23,
       "finalPrice": 600,
       "regularPrice": 600,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -1216,8 +1388,8 @@
       "id": "ca7a41abdeb2d834b8cf",
       "name": "Elite Kado Thorne Bundle",
       "section": "Signal Boost",
-      "sectionRank": 187,
-      "sectionIndex": 24,
+      "sectionRank": 196,
+      "sectionIndex": 28,
       "finalPrice": 1500,
       "regularPrice": 2200,
       "inDate": "2026-11-05T00:00:00.000Z",
@@ -1266,8 +1438,8 @@
       "id": "d5ca9f8bdb0759a444ad",
       "name": "Changes",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-10-30T00:00:00.000Z",
@@ -1293,8 +1465,8 @@
       "id": "e14d11fda2ea22c60702",
       "name": "Tender Defender + 1 included item",
       "section": "Peak Style",
-      "sectionRank": 184,
-      "sectionIndex": 34,
+      "sectionRank": 185,
+      "sectionIndex": 6,
       "finalPrice": 1500,
       "regularPrice": 1500,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -1324,11 +1496,38 @@
       ]
     },
     {
+      "id": "56dfd6d54dc31efd6a0b",
+      "name": "Weathered Wings",
+      "section": "Other offers",
+      "sectionRank": -1,
+      "sectionIndex": 47,
+      "finalPrice": 300,
+      "regularPrice": 300,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-16T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/bid_538_streetracercobragold/icon.png",
+      "isBundle": false,
+      "types": [
+        "Back Bling"
+      ],
+      "rarities": [
+        "Rare"
+      ],
+      "items": [
+        {
+          "name": "Weathered Wings",
+          "type": "Back Bling",
+          "rarity": "Rare",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "8d60a9020ab9e15b6b15",
       "name": "Sanji + 2 included items",
       "section": "One Piece",
       "sectionRank": 198,
-      "sectionIndex": 13,
+      "sectionIndex": 10,
       "finalPrice": 1600,
       "regularPrice": 1600,
       "inDate": "2026-11-08T00:00:00.000Z",
@@ -1366,11 +1565,38 @@
       ]
     },
     {
+      "id": "dc2293ed69266ddb51f9",
+      "name": "Baguette Bat",
+      "section": "Peak Style",
+      "sectionRank": 185,
+      "sectionIndex": 6,
+      "finalPrice": 500,
+      "regularPrice": 500,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-10T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_buttervehicle/icon.png",
+      "isBundle": false,
+      "types": [
+        "Pickaxe"
+      ],
+      "rarities": [
+        "Uncommon"
+      ],
+      "items": [
+        {
+          "name": "Baguette Bat",
+          "type": "Pickaxe",
+          "rarity": "Uncommon",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "2d4de6778c01319cf9f0",
       "name": "like JENNIE",
-      "section": "Victory Party",
-      "sectionRank": 195,
-      "sectionIndex": 25,
+      "section": "Groove Moves",
+      "sectionRank": 193,
+      "sectionIndex": 7,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -1393,11 +1619,38 @@
       ]
     },
     {
+      "id": "2e591539bf63594ae329",
+      "name": "Billy Bounce",
+      "section": "Jacob's Pierogi Locker",
+      "sectionRank": 182,
+      "sectionIndex": 14,
+      "finalPrice": 500,
+      "regularPrice": 500,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-14T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/eid_billybounce/icon.png",
+      "isBundle": false,
+      "types": [
+        "Emote"
+      ],
+      "rarities": [
+        "Rare"
+      ],
+      "items": [
+        {
+          "name": "Billy Bounce",
+          "type": "Emote",
+          "rarity": "Rare",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "14024f6869a09e5d87bd",
       "name": "Lovin On Me",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -1420,38 +1673,11 @@
       ]
     },
     {
-      "id": "3b021255807f7be4baca",
-      "name": "Scorpius Agent",
-      "section": "No Sweat",
-      "sectionRank": 182,
-      "sectionIndex": 10,
-      "finalPrice": 800,
-      "regularPrice": 800,
-      "inDate": "2026-11-03T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/character_labvapor/icon.png",
-      "isBundle": false,
-      "types": [
-        "Outfit"
-      ],
-      "rarities": [
-        "Epic"
-      ],
-      "items": [
-        {
-          "name": "Scorpius Agent",
-          "type": "Outfit",
-          "rarity": "Epic",
-          "artist": null
-        }
-      ]
-    },
-    {
       "id": "a328054cdbb2967f959a",
       "name": "Say It Ain't So",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -1477,8 +1703,8 @@
       "id": "23acc588dd79db8fd164",
       "name": "Who Let The Dogs Out",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -1504,8 +1730,8 @@
       "id": "c0c8c4c091e516afebb7",
       "name": "all the good girls go to hell",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -1532,7 +1758,7 @@
       "name": "Guard Pup",
       "section": "Other offers",
       "sectionRank": -1,
-      "sectionIndex": 49,
+      "sectionIndex": 56,
       "finalPrice": 300,
       "regularPrice": 300,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -1555,11 +1781,45 @@
       ]
     },
     {
+      "id": "db45fcf4aa3c927ee234",
+      "name": "Plague + 1 included item",
+      "section": "Peak Style",
+      "sectionRank": 185,
+      "sectionIndex": 6,
+      "finalPrice": 1500,
+      "regularPrice": 1500,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-11T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/a62bd8425f7eaec4/renderimage_1.png",
+      "isBundle": true,
+      "types": [
+        "Outfit",
+        "Back Bling"
+      ],
+      "rarities": [
+        "Epic"
+      ],
+      "items": [
+        {
+          "name": "Plague",
+          "type": "Outfit",
+          "rarity": "Epic",
+          "artist": null
+        },
+        {
+          "name": "Dismal Cape",
+          "type": "Back Bling",
+          "rarity": "Epic",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "942ccea2d0c9cd75f144",
       "name": "Fat Lip",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -1586,7 +1846,7 @@
       "name": "Megumi + 1 included item",
       "section": "Other offers",
       "sectionRank": -1,
-      "sectionIndex": 51,
+      "sectionIndex": 59,
       "finalPrice": 1200,
       "regularPrice": 1200,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -1616,60 +1876,11 @@
       ]
     },
     {
-      "id": "c103b088e94862fcc3f4",
-      "name": "Adanna of the Deep Bundle",
-      "section": "Peak Style",
-      "sectionRank": 184,
-      "sectionIndex": 34,
-      "finalPrice": 1700,
-      "regularPrice": 2300,
-      "inDate": "2026-11-08T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/fcb7fce7d10c21e0/renderimage_0.png",
-      "isBundle": true,
-      "types": [
-        "Outfit",
-        "Back Bling",
-        "Pickaxe",
-        "Wrap"
-      ],
-      "rarities": [
-        "Rare",
-        "Uncommon"
-      ],
-      "items": [
-        {
-          "name": "Adanna of the Deep",
-          "type": "Outfit",
-          "rarity": "Rare",
-          "artist": null
-        },
-        {
-          "name": "The Eye of Orkanoth",
-          "type": "Back Bling",
-          "rarity": "Rare",
-          "artist": null
-        },
-        {
-          "name": "Sunken Hooks",
-          "type": "Pickaxe",
-          "rarity": "Rare",
-          "artist": null
-        },
-        {
-          "name": "Kraken's Reach",
-          "type": "Wrap",
-          "rarity": "Uncommon",
-          "artist": null
-        }
-      ]
-    },
-    {
       "id": "3e5d209511858e3b0804",
       "name": "When I Come Around",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -1695,8 +1906,8 @@
       "id": "8821f1ee28026dd6beb9",
       "name": "Tough Luck",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -1722,8 +1933,8 @@
       "id": "e5a5b4649b7a62145516",
       "name": "Break From Toronto",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -1749,8 +1960,8 @@
       "id": "d3754f25914dd1baf520",
       "name": "Blitzkrieg Bop",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -1776,8 +1987,8 @@
       "id": "32b8850ffbb7c6075b14",
       "name": "Bushi",
       "section": "Signal Boost",
-      "sectionRank": 187,
-      "sectionIndex": 24,
+      "sectionRank": 196,
+      "sectionIndex": 28,
       "finalPrice": 1200,
       "regularPrice": 1200,
       "inDate": "2026-11-04T00:00:00.000Z",
@@ -1803,8 +2014,8 @@
       "id": "1b19f4a9f772af346200",
       "name": "The Golden Touch",
       "section": "Treasure Hunters",
-      "sectionRank": 191,
-      "sectionIndex": 7,
+      "sectionRank": 190,
+      "sectionIndex": 16,
       "finalPrice": 800,
       "regularPrice": 800,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -1830,8 +2041,8 @@
       "id": "10cd0f5db66aa4a68531",
       "name": "GRIM FREESTYLE",
       "section": "A$AP Rocky",
-      "sectionRank": 197,
-      "sectionIndex": 11,
+      "sectionRank": 195,
+      "sectionIndex": 31,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-06T00:00:00.000Z",
@@ -1854,11 +2065,38 @@
       ]
     },
     {
+      "id": "c64d144b030d7ecee1cc",
+      "name": "Skeletor's Weaponry",
+      "section": "Masters of the Universe",
+      "sectionRank": 192,
+      "sectionIndex": 29,
+      "finalPrice": 800,
+      "regularPrice": 800,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-13T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_prismglee/icon.png",
+      "isBundle": false,
+      "types": [
+        "Pickaxe"
+      ],
+      "rarities": [
+        "Rare"
+      ],
+      "items": [
+        {
+          "name": "Skeletor's Weaponry",
+          "type": "Pickaxe",
+          "rarity": "Rare",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "9af05718ff60b7a81f6e",
       "name": "Chicken Chonkers",
       "section": "Peak Style",
-      "sectionRank": 184,
-      "sectionIndex": 34,
+      "sectionRank": 185,
+      "sectionIndex": 6,
       "finalPrice": 600,
       "regularPrice": 600,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -1881,65 +2119,11 @@
       ]
     },
     {
-      "id": "6be772bffb6765d653f6",
-      "name": "Moonlit Bowblade",
-      "section": "Peak Style",
-      "sectionRank": 184,
-      "sectionIndex": 34,
-      "finalPrice": 800,
-      "regularPrice": 800,
-      "inDate": "2026-11-09T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_827_raysfemale/icon.png",
-      "isBundle": false,
-      "types": [
-        "Pickaxe"
-      ],
-      "rarities": [
-        "Rare"
-      ],
-      "items": [
-        {
-          "name": "Moonlit Bowblade",
-          "type": "Pickaxe",
-          "rarity": "Rare",
-          "artist": null
-        }
-      ]
-    },
-    {
-      "id": "189ad37142ea6882f3f5",
-      "name": "Stealthy Surveyor",
-      "section": "No Sweat",
-      "sectionRank": 182,
-      "sectionIndex": 10,
-      "finalPrice": 1200,
-      "regularPrice": 1200,
-      "inDate": "2026-11-03T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/character_pennantseasshade_b/icon.png",
-      "isBundle": false,
-      "types": [
-        "Outfit"
-      ],
-      "rarities": [
-        "Rare"
-      ],
-      "items": [
-        {
-          "name": "Stealthy Surveyor",
-          "type": "Outfit",
-          "rarity": "Rare",
-          "artist": null
-        }
-      ]
-    },
-    {
       "id": "6c2ed7450d8ba99ab101",
       "name": "Basket Case",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -1962,19 +2146,19 @@
       ]
     },
     {
-      "id": "c8fb45ceb8ea3ce86833",
-      "name": "Nightforged Blades + 1 included item",
-      "section": "Other offers",
-      "sectionRank": -1,
-      "sectionIndex": 64,
-      "finalPrice": 800,
-      "regularPrice": 800,
-      "inDate": "2026-11-03T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_779_vampirehunterfemale1h/icon.png",
+      "id": "02f9dd620efa58a7078e",
+      "name": "Razor Rae + 1 included item",
+      "section": "No Sweat",
+      "sectionRank": 189,
+      "sectionIndex": 15,
+      "finalPrice": 1200,
+      "regularPrice": 1200,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-16T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/39de3471fbf927a9/renderimage_0.png",
       "isBundle": true,
       "types": [
-        "Pickaxe",
+        "Outfit",
         "Back Bling"
       ],
       "rarities": [
@@ -1982,13 +2166,13 @@
       ],
       "items": [
         {
-          "name": "Nightforged Blades",
-          "type": "Pickaxe",
+          "name": "Razor Rae",
+          "type": "Outfit",
           "rarity": "Rare",
           "artist": null
         },
         {
-          "name": "Nightforged Blades",
+          "name": "Boom Bag",
           "type": "Back Bling",
           "rarity": "Rare",
           "artist": null
@@ -1999,8 +2183,8 @@
       "id": "e665b0fdc85041bffbce",
       "name": "Twilight Trill",
       "section": "Honkai Star Rail",
-      "sectionRank": 193,
-      "sectionIndex": 28,
+      "sectionRank": 191,
+      "sectionIndex": 4,
       "finalPrice": 300,
       "regularPrice": 300,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -2026,8 +2210,8 @@
       "id": "ff01c1922cd486f9c608",
       "name": "Infiltration Tools Pack",
       "section": "Treasure Hunters",
-      "sectionRank": 191,
-      "sectionIndex": 7,
+      "sectionRank": 190,
+      "sectionIndex": 16,
       "finalPrice": 1200,
       "regularPrice": 2400,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -2065,8 +2249,8 @@
       "id": "57aa6ad359105fc12230",
       "name": "Bulls On Parade",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -2093,7 +2277,7 @@
       "name": "Rot Iron Trident",
       "section": "Other offers",
       "sectionRank": -1,
-      "sectionIndex": 68,
+      "sectionIndex": 74,
       "finalPrice": 800,
       "regularPrice": 800,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -2116,38 +2300,11 @@
       ]
     },
     {
-      "id": "07776d92ede31e1bb02c",
-      "name": "The Eye of Orkanoth",
-      "section": "Other offers",
-      "sectionRank": -1,
-      "sectionIndex": 69,
-      "finalPrice": 200,
-      "regularPrice": 200,
-      "inDate": "2026-11-08T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/backpack_steammarauder/icon.png",
-      "isBundle": false,
-      "types": [
-        "Back Bling"
-      ],
-      "rarities": [
-        "Rare"
-      ],
-      "items": [
-        {
-          "name": "The Eye of Orkanoth",
-          "type": "Back Bling",
-          "rarity": "Rare",
-          "artist": null
-        }
-      ]
-    },
-    {
       "id": "4361666b6d2f3b5effa7",
       "name": "WHERE IS MY HUSBAND!",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -2173,8 +2330,8 @@
       "id": "7750110f3f94d1736f31",
       "name": "Orelia Bundle",
       "section": "Treasure Hunters",
-      "sectionRank": 191,
-      "sectionIndex": 7,
+      "sectionRank": 190,
+      "sectionIndex": 16,
       "finalPrice": 2200,
       "regularPrice": 3200,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -2230,8 +2387,8 @@
       "id": "231067ee8df3de113ffc",
       "name": "THE DINER",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -2254,11 +2411,38 @@
       ]
     },
     {
+      "id": "161f1add18dbf857460b",
+      "name": "Skeletor's Cape",
+      "section": "Masters of the Universe",
+      "sectionRank": 192,
+      "sectionIndex": 29,
+      "finalPrice": 300,
+      "regularPrice": 300,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-13T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/backpack_prismglee/icon.png",
+      "isBundle": false,
+      "types": [
+        "Back Bling"
+      ],
+      "rarities": [
+        "Legendary"
+      ],
+      "items": [
+        {
+          "name": "Skeletor's Cape",
+          "type": "Back Bling",
+          "rarity": "Legendary",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "33bd233e29cf670f0576",
       "name": "Hips Don't Lie",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -2284,8 +2468,8 @@
       "id": "a9df0097a9214306cdd2",
       "name": "Right Round",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -2311,8 +2495,8 @@
       "id": "5d4272caf7b4ac103710",
       "name": "Stormtrooper Samurai + 1 included item",
       "section": "Star Wars",
-      "sectionRank": 192,
-      "sectionIndex": 19,
+      "sectionRank": 188,
+      "sectionIndex": 30,
       "finalPrice": 1500,
       "regularPrice": 1500,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -2346,7 +2530,7 @@
       "name": "5 Ton Hammer",
       "section": "One Piece",
       "sectionRank": 198,
-      "sectionIndex": 13,
+      "sectionIndex": 10,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -2372,8 +2556,8 @@
       "id": "b6f94f2e95cfbe3ccdce",
       "name": "Firework",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -2399,8 +2583,8 @@
       "id": "6d486939a838bd41bc6a",
       "name": "Don't Let Me Down",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -2426,8 +2610,8 @@
       "id": "c493acd49a45044033bf",
       "name": "Sally's Soup Ladle",
       "section": "Gothic Lookbook",
-      "sectionRank": 185,
-      "sectionIndex": 16,
+      "sectionRank": 186,
+      "sectionIndex": 3,
       "finalPrice": 800,
       "regularPrice": 800,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -2450,11 +2634,38 @@
       ]
     },
     {
+      "id": "e6b9b3128157a67c090a",
+      "name": "Boom Bag",
+      "section": "Other offers",
+      "sectionRank": -1,
+      "sectionIndex": 86,
+      "finalPrice": 200,
+      "regularPrice": 200,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-16T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/backpack_firework/icon.png",
+      "isBundle": false,
+      "types": [
+        "Back Bling"
+      ],
+      "rarities": [
+        "Rare"
+      ],
+      "items": [
+        {
+          "name": "Boom Bag",
+          "type": "Back Bling",
+          "rarity": "Rare",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "1064cd52b4a61543a989",
       "name": "Sol's Curse",
       "section": "Treasure Hunters",
-      "sectionRank": 191,
-      "sectionIndex": 7,
+      "sectionRank": 190,
+      "sectionIndex": 16,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -2481,7 +2692,7 @@
       "name": "Ravenpool's Cage",
       "section": "Other offers",
       "sectionRank": -1,
-      "sectionIndex": 81,
+      "sectionIndex": 88,
       "finalPrice": 300,
       "regularPrice": 300,
       "inDate": "2026-11-08T00:00:00.000Z",
@@ -2507,8 +2718,8 @@
       "id": "8bcdac5ed88860ba2850",
       "name": "Omnitrix Upgrade",
       "section": "Ben 10",
-      "sectionRank": 186,
-      "sectionIndex": 33,
+      "sectionRank": 184,
+      "sectionIndex": 23,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -2534,8 +2745,8 @@
       "id": "cf84a01671e5c554326e",
       "name": "Edward Scissorhands",
       "section": "Gothic Lookbook",
-      "sectionRank": 185,
-      "sectionIndex": 16,
+      "sectionRank": 186,
+      "sectionIndex": 3,
       "finalPrice": 2000,
       "regularPrice": 2000,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -2584,8 +2795,8 @@
       "id": "ffcd11601342b6d59c72",
       "name": "Sandstorm",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-10-30T00:00:00.000Z",
@@ -2608,38 +2819,11 @@
       ]
     },
     {
-      "id": "3b8f98e2700e0514b774",
-      "name": "Fatecarver Insignia",
-      "section": "Other offers",
-      "sectionRank": -1,
-      "sectionIndex": 85,
-      "finalPrice": 300,
-      "regularPrice": 300,
-      "inDate": "2026-11-03T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/wrap_autumndelivery/icon.png",
-      "isBundle": false,
-      "types": [
-        "Wrap"
-      ],
-      "rarities": [
-        "Uncommon"
-      ],
-      "items": [
-        {
-          "name": "Fatecarver Insignia",
-          "type": "Wrap",
-          "rarity": "Uncommon",
-          "artist": null
-        }
-      ]
-    },
-    {
       "id": "e8a1a60cb3066359bfdd",
       "name": "Tubthumping",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -2662,38 +2846,11 @@
       ]
     },
     {
-      "id": "334139afc0f4739ce81b",
-      "name": "Galactic Spiral",
-      "section": "Peak Style",
-      "sectionRank": 184,
-      "sectionIndex": 34,
-      "finalPrice": 500,
-      "regularPrice": 500,
-      "inDate": "2026-11-09T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/wrap_322_blackhole/icon.png",
-      "isBundle": false,
-      "types": [
-        "Wrap"
-      ],
-      "rarities": [
-        "Rare"
-      ],
-      "items": [
-        {
-          "name": "Galactic Spiral",
-          "type": "Wrap",
-          "rarity": "Rare",
-          "artist": null
-        }
-      ]
-    },
-    {
       "id": "18445fe18c578bc3c7ab",
       "name": "Air Jordan 3 Retro 'Palomino'",
       "section": "Peak Style",
-      "sectionRank": 184,
-      "sectionIndex": 34,
+      "sectionRank": 185,
+      "sectionIndex": 6,
       "finalPrice": 800,
       "regularPrice": 800,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -2716,46 +2873,11 @@
       ]
     },
     {
-      "id": "af18c60051e5bda46279",
-      "name": "Tung Tung Tung Sahur",
-      "section": "Brainrot",
-      "sectionRank": 190,
-      "sectionIndex": 9,
-      "finalPrice": 1500,
-      "regularPrice": 1500,
-      "inDate": "2026-11-07T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/95736cac2e63353c/renderimage_0.png",
-      "isBundle": true,
-      "types": [
-        "Outfit",
-        "Pickaxe"
-      ],
-      "rarities": [
-        "Epic",
-        "Rare"
-      ],
-      "items": [
-        {
-          "name": "Tung Tung Tung Sahur",
-          "type": "Outfit",
-          "rarity": "Epic",
-          "artist": null
-        },
-        {
-          "name": "Tung Thunker",
-          "type": "Pickaxe",
-          "rarity": "Rare",
-          "artist": null
-        }
-      ]
-    },
-    {
       "id": "cba1e71d07ed53559df3",
       "name": "Mecha Team Shadow + 1 included item",
       "section": "Signal Boost",
-      "sectionRank": 187,
-      "sectionIndex": 24,
+      "sectionRank": 196,
+      "sectionIndex": 28,
       "finalPrice": 1500,
       "regularPrice": 1500,
       "inDate": "2026-11-04T00:00:00.000Z",
@@ -2788,8 +2910,8 @@
       "id": "39242e8c7b4412ae4deb",
       "name": "Wildmutt Chompers",
       "section": "Ben 10",
-      "sectionRank": 186,
-      "sectionIndex": 33,
+      "sectionRank": 184,
+      "sectionIndex": 23,
       "finalPrice": 1000,
       "regularPrice": 1000,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -2815,8 +2937,8 @@
       "id": "85aebb5d49f1ea08030a",
       "name": "King's Parade Horse",
       "section": "Gothic Lookbook",
-      "sectionRank": 185,
-      "sectionIndex": 16,
+      "sectionRank": 186,
+      "sectionIndex": 3,
       "finalPrice": 800,
       "regularPrice": 800,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -2842,8 +2964,8 @@
       "id": "d9103215d8188df4e0c8",
       "name": "Rocky's BOOM Mic + 2 included items",
       "section": "A$AP Rocky",
-      "sectionRank": 197,
-      "sectionIndex": 11,
+      "sectionRank": 195,
+      "sectionIndex": 31,
       "finalPrice": 800,
       "regularPrice": 800,
       "inDate": "2026-11-06T00:00:00.000Z",
@@ -2880,72 +3002,11 @@
       ]
     },
     {
-      "id": "e2aa939feb4476f224da",
-      "name": "Sunken Hooks",
-      "section": "Peak Style",
-      "sectionRank": 184,
-      "sectionIndex": 34,
-      "finalPrice": 800,
-      "regularPrice": 800,
-      "inDate": "2026-11-08T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_steammarauder/icon.png",
-      "isBundle": false,
-      "types": [
-        "Pickaxe"
-      ],
-      "rarities": [
-        "Rare"
-      ],
-      "items": [
-        {
-          "name": "Sunken Hooks",
-          "type": "Pickaxe",
-          "rarity": "Rare",
-          "artist": null
-        }
-      ]
-    },
-    {
-      "id": "749676d7900db45b437c",
-      "name": "Skully + 1 included item",
-      "section": "No Sweat",
-      "sectionRank": 182,
-      "sectionIndex": 10,
-      "finalPrice": 1200,
-      "regularPrice": 1200,
-      "inDate": "2026-11-03T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/63d797a940747f12/renderimage_0.png",
-      "isBundle": true,
-      "types": [
-        "Outfit",
-        "Back Bling"
-      ],
-      "rarities": [
-        "Rare"
-      ],
-      "items": [
-        {
-          "name": "Skully",
-          "type": "Outfit",
-          "rarity": "Rare",
-          "artist": null
-        },
-        {
-          "name": "Skully Satchel",
-          "type": "Back Bling",
-          "rarity": "Rare",
-          "artist": null
-        }
-      ]
-    },
-    {
       "id": "7427973428799229ac7d",
       "name": "A$AP ROCKY X PUMA Suede 94 ‘Black/White’",
       "section": "A$AP Rocky",
-      "sectionRank": 197,
-      "sectionIndex": 11,
+      "sectionRank": 195,
+      "sectionIndex": 31,
       "finalPrice": 1000,
       "regularPrice": 1000,
       "inDate": "2026-11-06T00:00:00.000Z",
@@ -2971,8 +3032,8 @@
       "id": "d0231731bf891932e08d",
       "name": "Get Busy",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-10-01T00:00:00.000Z",
@@ -2999,7 +3060,7 @@
       "name": "Test of Will",
       "section": "One Piece",
       "sectionRank": 198,
-      "sectionIndex": 13,
+      "sectionIndex": 10,
       "finalPrice": 300,
       "regularPrice": 300,
       "inDate": "2026-11-08T00:00:00.000Z",
@@ -3025,8 +3086,8 @@
       "id": "1018756ceb5b2bad557e",
       "name": "Gwen Tennyson",
       "section": "Ben 10",
-      "sectionRank": 186,
-      "sectionIndex": 33,
+      "sectionRank": 184,
+      "sectionIndex": 23,
       "finalPrice": 1800,
       "regularPrice": 1800,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -3060,8 +3121,8 @@
       "id": "af656b4ae7a5f7ab7707",
       "name": "Battery",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -3087,8 +3148,8 @@
       "id": "32b3c04710c1c321e20b",
       "name": "Less Than",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -3114,8 +3175,8 @@
       "id": "b66efc0e35ac09841c4f",
       "name": "Pumpkin King & Sally Bundle",
       "section": "Gothic Lookbook",
-      "sectionRank": 185,
-      "sectionIndex": 16,
+      "sectionRank": 186,
+      "sectionIndex": 3,
       "finalPrice": 3400,
       "regularPrice": 5100,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -3199,11 +3260,53 @@
       ]
     },
     {
+      "id": "d38266babb6e23e59606",
+      "name": "emo girl Bundle",
+      "section": "Peak Style",
+      "sectionRank": 185,
+      "sectionIndex": 6,
+      "finalPrice": 1500,
+      "regularPrice": 1700,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-11T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/4881c6449a560c32/renderimage_0.png",
+      "isBundle": true,
+      "types": [
+        "Outfit",
+        "Back Bling",
+        "Jam Track"
+      ],
+      "rarities": [
+        "Rare",
+        "Not specified"
+      ],
+      "items": [
+        {
+          "name": "Jawbreaker",
+          "type": "Outfit",
+          "rarity": "Rare",
+          "artist": null
+        },
+        {
+          "name": "Containment Unit",
+          "type": "Back Bling",
+          "rarity": "Rare",
+          "artist": null
+        },
+        {
+          "name": "emo girl",
+          "type": "Jam Track",
+          "rarity": "Not specified",
+          "artist": "mgk ft. WILLOW"
+        }
+      ]
+    },
+    {
       "id": "047905835223b45d6b73",
       "name": "Holiday",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -3226,11 +3329,38 @@
       ]
     },
     {
+      "id": "951a5600fb940bfbdb02",
+      "name": "Raider's Rucksack",
+      "section": "Other offers",
+      "sectionRank": -1,
+      "sectionIndex": 107,
+      "finalPrice": 300,
+      "regularPrice": 300,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-16T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/backpack_headhunterstar/icon.png",
+      "isBundle": false,
+      "types": [
+        "Back Bling"
+      ],
+      "rarities": [
+        "Rare"
+      ],
+      "items": [
+        {
+          "name": "Raider's Rucksack",
+          "type": "Back Bling",
+          "rarity": "Rare",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "4bee5cbf43233acb0cf2",
       "name": "Rocky Rugahand + 1 included item",
       "section": "A$AP Rocky",
-      "sectionRank": 197,
-      "sectionIndex": 11,
+      "sectionRank": 195,
+      "sectionIndex": 31,
       "finalPrice": 1500,
       "regularPrice": 1500,
       "inDate": "2026-11-06T00:00:00.000Z",
@@ -3263,8 +3393,8 @@
       "id": "a156b46d157528f849c3",
       "name": "Melt",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -3290,8 +3420,8 @@
       "id": "c8be1eceb6d0769e84e0",
       "name": "Stellaron Hunter Blade",
       "section": "Honkai Star Rail",
-      "sectionRank": 193,
-      "sectionIndex": 28,
+      "sectionRank": 191,
+      "sectionIndex": 4,
       "finalPrice": 1500,
       "regularPrice": 1500,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -3321,11 +3451,38 @@
       ]
     },
     {
+      "id": "c16b0b2803243632eb18",
+      "name": "H4ck // P4ck",
+      "section": "Other offers",
+      "sectionRank": -1,
+      "sectionIndex": 111,
+      "finalPrice": 300,
+      "regularPrice": 300,
+      "inDate": "2026-11-09T00:00:00.000Z",
+      "outDate": "2026-11-11T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/bid_730_sailorsquadrose/icon.png",
+      "isBundle": false,
+      "types": [
+        "Back Bling"
+      ],
+      "rarities": [
+        "Rare"
+      ],
+      "items": [
+        {
+          "name": "H4ck // P4ck",
+          "type": "Back Bling",
+          "rarity": "Rare",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "d41d9e78b7dca59f246d",
       "name": "Star Wars Samurai Bundle",
       "section": "Star Wars",
-      "sectionRank": 192,
-      "sectionIndex": 19,
+      "sectionRank": 188,
+      "sectionIndex": 30,
       "finalPrice": 3200,
       "regularPrice": 5600,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -3400,38 +3557,11 @@
       ]
     },
     {
-      "id": "c16b0b2803243632eb18",
-      "name": "H4ck // P4ck",
-      "section": "Other offers",
-      "sectionRank": -1,
-      "sectionIndex": 108,
-      "finalPrice": 300,
-      "regularPrice": 300,
-      "inDate": "2026-11-09T00:00:00.000Z",
-      "outDate": "2026-11-11T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/bid_730_sailorsquadrose/icon.png",
-      "isBundle": false,
-      "types": [
-        "Back Bling"
-      ],
-      "rarities": [
-        "Rare"
-      ],
-      "items": [
-        {
-          "name": "H4ck // P4ck",
-          "type": "Back Bling",
-          "rarity": "Rare",
-          "artist": null
-        }
-      ]
-    },
-    {
       "id": "2bda705e2fd4265c3da3",
       "name": "Scenario",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-06T00:00:00.000Z",
@@ -3457,8 +3587,8 @@
       "id": "c59a95b74de98e2d380b",
       "name": "RAM 1500 RHO",
       "section": "RAM 1500 RHO",
-      "sectionRank": 178,
-      "sectionIndex": 21,
+      "sectionRank": 179,
+      "sectionIndex": 9,
       "finalPrice": 2500,
       "regularPrice": 2500,
       "inDate": "2026-11-08T00:00:00.000Z",
@@ -3510,8 +3640,8 @@
       "id": "5d9492575d56b0000079",
       "name": "Psyonic Spear",
       "section": "Signal Boost",
-      "sectionRank": 187,
-      "sectionIndex": 24,
+      "sectionRank": 196,
+      "sectionIndex": 28,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-05T00:00:00.000Z",
@@ -3534,18 +3664,19 @@
       ]
     },
     {
-      "id": "d6cd7dc8e44b34ae0ea7",
-      "name": "Bunny Hops",
-      "section": "Space Jam",
-      "sectionRank": 183,
-      "sectionIndex": 20,
-      "finalPrice": 300,
-      "regularPrice": 300,
-      "inDate": "2026-11-06T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/backpack_brinegleam/icon.png",
-      "isBundle": false,
+      "id": "8792ad2f13bd5b56f3a1",
+      "name": "Renegade Runner + 1 included item",
+      "section": "No Sweat",
+      "sectionRank": 189,
+      "sectionIndex": 15,
+      "finalPrice": 1200,
+      "regularPrice": 1200,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-16T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/c35c608c460b47ab/renderimage_0.png",
+      "isBundle": true,
       "types": [
+        "Outfit",
         "Back Bling"
       ],
       "rarities": [
@@ -3553,7 +3684,13 @@
       ],
       "items": [
         {
-          "name": "Bunny Hops",
+          "name": "Renegade Runner",
+          "type": "Outfit",
+          "rarity": "Rare",
+          "artist": null
+        },
+        {
+          "name": "Raider's Rucksack",
           "type": "Back Bling",
           "rarity": "Rare",
           "artist": null
@@ -3564,8 +3701,8 @@
       "id": "5dde62d5f29c9dfcb6c5",
       "name": "Flacko's Chopper",
       "section": "A$AP Rocky",
-      "sectionRank": 197,
-      "sectionIndex": 11,
+      "sectionRank": 195,
+      "sectionIndex": 31,
       "finalPrice": 1200,
       "regularPrice": 1200,
       "inDate": "2026-11-06T00:00:00.000Z",
@@ -3591,8 +3728,8 @@
       "id": "c377c0955a83f3d5f181",
       "name": "Santeria",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -3618,8 +3755,8 @@
       "id": "39b77552f0438bb47a9e",
       "name": "Psyonic Elite Cloak",
       "section": "Signal Boost",
-      "sectionRank": 187,
-      "sectionIndex": 24,
+      "sectionRank": 196,
+      "sectionIndex": 28,
       "finalPrice": 300,
       "regularPrice": 300,
       "inDate": "2026-11-05T00:00:00.000Z",
@@ -3645,8 +3782,8 @@
       "id": "b82ba41ed14fae7c9a86",
       "name": "Stay Alta",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-06T00:00:00.000Z",
@@ -3672,8 +3809,8 @@
       "id": "94e824bef7232badc660",
       "name": "A$AP ROCKY X PUMA Straycat V6 ‘Red Flash/Black’",
       "section": "A$AP Rocky",
-      "sectionRank": 197,
-      "sectionIndex": 11,
+      "sectionRank": 195,
+      "sectionIndex": 31,
       "finalPrice": 1000,
       "regularPrice": 1000,
       "inDate": "2026-11-06T00:00:00.000Z",
@@ -3700,7 +3837,7 @@
       "name": "Roronoa Zoro + 3 included items",
       "section": "One Piece",
       "sectionRank": 198,
-      "sectionIndex": 13,
+      "sectionIndex": 10,
       "finalPrice": 1800,
       "regularPrice": 1800,
       "inDate": "2026-11-08T00:00:00.000Z",
@@ -3750,7 +3887,7 @@
       "name": "Zero",
       "section": "Other offers",
       "sectionRank": -1,
-      "sectionIndex": 119,
+      "sectionIndex": 123,
       "finalPrice": 600,
       "regularPrice": 600,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -3773,11 +3910,38 @@
       ]
     },
     {
+      "id": "e6bf6914df2bbfa5a9ae",
+      "name": "Sun Sprout",
+      "section": "Jacob's Pierogi Locker",
+      "sectionRank": 182,
+      "sectionIndex": 14,
+      "finalPrice": 200,
+      "regularPrice": 200,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-14T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/bid_220_farmerfemale/icon.png",
+      "isBundle": false,
+      "types": [
+        "Back Bling"
+      ],
+      "rarities": [
+        "Uncommon"
+      ],
+      "items": [
+        {
+          "name": "Sun Sprout",
+          "type": "Back Bling",
+          "rarity": "Uncommon",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "1b98c67af2c896eaa52a",
       "name": "Nami + 2 included items",
       "section": "One Piece",
       "sectionRank": 198,
-      "sectionIndex": 13,
+      "sectionIndex": 10,
       "finalPrice": 1600,
       "regularPrice": 1600,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -3819,7 +3983,7 @@
       "name": "Imperial Banner",
       "section": "Other offers",
       "sectionRank": -1,
-      "sectionIndex": 121,
+      "sectionIndex": 126,
       "finalPrice": 300,
       "regularPrice": 300,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -3845,8 +4009,8 @@
       "id": "86bcfc9ed129b850c32c",
       "name": "Next Semester",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -3872,8 +4036,8 @@
       "id": "389595332e76e25b9393",
       "name": "RIOT (Rowdy Pipe’n)",
       "section": "A$AP Rocky",
-      "sectionRank": 197,
-      "sectionIndex": 11,
+      "sectionRank": 195,
+      "sectionIndex": 31,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-06T00:00:00.000Z",
@@ -3900,7 +4064,7 @@
       "name": "Usopp's Kit",
       "section": "One Piece",
       "sectionRank": 198,
-      "sectionIndex": 13,
+      "sectionIndex": 10,
       "finalPrice": 300,
       "regularPrice": 300,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -3926,8 +4090,8 @@
       "id": "f7536a89fa50df278f62",
       "name": "Sad But True",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -3953,8 +4117,8 @@
       "id": "389ddeff9254f12176a9",
       "name": "Scootin'",
       "section": "Deadpool Mashups",
-      "sectionRank": 188,
-      "sectionIndex": 15,
+      "sectionRank": 187,
+      "sectionIndex": 25,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-08T00:00:00.000Z",
@@ -3977,11 +4141,45 @@
       ]
     },
     {
+      "id": "7a341a2ad7757c2c03a3",
+      "name": "Dark Rex + 1 included item",
+      "section": "Peak Style",
+      "sectionRank": 185,
+      "sectionIndex": 6,
+      "finalPrice": 1200,
+      "regularPrice": 1200,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-16T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/96384bb2879d9eab/renderimage_0.png",
+      "isBundle": true,
+      "types": [
+        "Outfit",
+        "Back Bling"
+      ],
+      "rarities": [
+        "DARK SERIES"
+      ],
+      "items": [
+        {
+          "name": "Dark Rex",
+          "type": "Outfit",
+          "rarity": "DARK SERIES",
+          "artist": null
+        },
+        {
+          "name": "Dark Scaly",
+          "type": "Back Bling",
+          "rarity": "DARK SERIES",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "54a44bd3ce04570d24a4",
       "name": "Gimme The Light",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-06T00:00:00.000Z",
@@ -4007,8 +4205,8 @@
       "id": "ce35faca60b03c5c8c9f",
       "name": "Wolves",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -4031,28 +4229,28 @@
       ]
     },
     {
-      "id": "b3d5c2f0eef5eed1dff2",
-      "name": "Pixellator",
-      "section": "Other offers",
-      "sectionRank": -1,
-      "sectionIndex": 129,
-      "finalPrice": 500,
-      "regularPrice": 500,
-      "inDate": "2026-11-09T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/wrap_379_pliant/icon.png",
+      "id": "465fb37ff8913c9fd8b5",
+      "name": "Blair",
+      "section": "Peak Style",
+      "sectionRank": 185,
+      "sectionIndex": 6,
+      "finalPrice": 800,
+      "regularPrice": 800,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-10T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/character_sugarbubble/icon.png",
       "isBundle": false,
       "types": [
-        "Wrap"
+        "Character"
       ],
       "rarities": [
-        "Rare"
+        "Epic"
       ],
       "items": [
         {
-          "name": "Pixellator",
-          "type": "Wrap",
-          "rarity": "Rare",
+          "name": "Blair",
+          "type": "Character",
+          "rarity": "Epic",
           "artist": null
         }
       ]
@@ -4061,8 +4259,8 @@
       "id": "ab8d365e6f67ada484ca",
       "name": "Cat Marks the Spot",
       "section": "Treasure Hunters",
-      "sectionRank": 191,
-      "sectionIndex": 7,
+      "sectionRank": 190,
+      "sectionIndex": 16,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -4088,8 +4286,8 @@
       "id": "946189b7632086cc96a4",
       "name": "Stargazing",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -4115,8 +4313,8 @@
       "id": "3bdad020467369c7a65e",
       "name": "Nonsense",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -4142,8 +4340,8 @@
       "id": "65ec036523e2aec07266",
       "name": "Stick Season",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -4169,8 +4367,8 @@
       "id": "d31886de11dc33d9d56c",
       "name": "Demonic Dab & Hop",
       "section": "Treasure Hunters",
-      "sectionRank": 191,
-      "sectionIndex": 7,
+      "sectionRank": 190,
+      "sectionIndex": 16,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -4197,7 +4395,7 @@
       "name": "Usopp + 2 included items",
       "section": "One Piece",
       "sectionRank": 198,
-      "sectionIndex": 13,
+      "sectionIndex": 10,
       "finalPrice": 1600,
       "regularPrice": 1600,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -4238,8 +4436,8 @@
       "id": "137e1abd657189e7ea79",
       "name": "Savage",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -4262,11 +4460,53 @@
       ]
     },
     {
+      "id": "86c893cda606d854eb51",
+      "name": "Sticks of Eternia + 2 included items",
+      "section": "Masters of the Universe",
+      "sectionRank": 192,
+      "sectionIndex": 29,
+      "finalPrice": 800,
+      "regularPrice": 800,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-13T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/5bb633561a5d6810/renderimage_0.png",
+      "isBundle": true,
+      "types": [
+        "Back Bling",
+        "Pickaxe",
+        "Drums"
+      ],
+      "rarities": [
+        "Rare",
+        "Common"
+      ],
+      "items": [
+        {
+          "name": "Sticks of Eternia",
+          "type": "Back Bling",
+          "rarity": "Rare",
+          "artist": null
+        },
+        {
+          "name": "Sticks of Eternia",
+          "type": "Pickaxe",
+          "rarity": "Rare",
+          "artist": null
+        },
+        {
+          "name": "Grayskull Kit",
+          "type": "Drums",
+          "rarity": "Common",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "f2a1fe1f6aa31493f2d4",
       "name": "Ghost",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -4292,8 +4532,8 @@
       "id": "fd29a5c3899ff105faf6",
       "name": "Crocs Echo Clog ‘Black’",
       "section": "Signal Boost",
-      "sectionRank": 187,
-      "sectionIndex": 24,
+      "sectionRank": 196,
+      "sectionIndex": 28,
       "finalPrice": 800,
       "regularPrice": 800,
       "inDate": "2026-11-04T00:00:00.000Z",
@@ -4319,8 +4559,8 @@
       "id": "a1ddf723d0371c228dae",
       "name": "Edward Scissorhands Bundle",
       "section": "Gothic Lookbook",
-      "sectionRank": 185,
-      "sectionIndex": 16,
+      "sectionRank": 186,
+      "sectionIndex": 3,
       "finalPrice": 2500,
       "regularPrice": 3000,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -4389,12 +4629,12 @@
       "id": "7ee6b2386290d37d30b2",
       "name": "Sunflower - Spider-Man: Into the Spider-Verse",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
-      "outDate": "2026-12-10T23:59:59.999Z",
+      "outDate": "2026-11-30T23:59:59.999Z",
       "image": "https://cdn.fortnite-api.com/tracks/ad6fa2ab41e8a472.jpg",
       "isBundle": false,
       "types": [
@@ -4413,38 +4653,11 @@
       ]
     },
     {
-      "id": "9b9c577abf86e9b2a302",
-      "name": "Wrappuccina",
-      "section": "Brainrot",
-      "sectionRank": 190,
-      "sectionIndex": 9,
-      "finalPrice": 500,
-      "regularPrice": 500,
-      "inDate": "2026-11-07T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/wrap_lumpymuddy/icon.png",
-      "isBundle": false,
-      "types": [
-        "Wrap"
-      ],
-      "rarities": [
-        "Rare"
-      ],
-      "items": [
-        {
-          "name": "Wrappuccina",
-          "type": "Wrap",
-          "rarity": "Rare",
-          "artist": null
-        }
-      ]
-    },
-    {
       "id": "81571bb86945375cd11a",
       "name": "Maps",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -4467,11 +4680,38 @@
       ]
     },
     {
+      "id": "e22e5f1ee4f06a318d70",
+      "name": "Dismal Cape",
+      "section": "Other offers",
+      "sectionRank": -1,
+      "sectionIndex": 149,
+      "finalPrice": 300,
+      "regularPrice": 300,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-11T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/bid_127_plaguemale/icon.png",
+      "isBundle": false,
+      "types": [
+        "Back Bling"
+      ],
+      "rarities": [
+        "Epic"
+      ],
+      "items": [
+        {
+          "name": "Dismal Cape",
+          "type": "Back Bling",
+          "rarity": "Epic",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "a5d689a9460aeb79e2b9",
       "name": "Free Bird",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -4497,8 +4737,8 @@
       "id": "02b95321ee5df301cfbd",
       "name": "Agent Blanc",
       "section": "Peak Style",
-      "sectionRank": 184,
-      "sectionIndex": 34,
+      "sectionRank": 185,
+      "sectionIndex": 6,
       "finalPrice": 800,
       "regularPrice": 800,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -4521,38 +4761,11 @@
       ]
     },
     {
-      "id": "99c704f76b647430cb2f",
-      "name": "Kraken's Reach",
-      "section": "Peak Style",
-      "sectionRank": 184,
-      "sectionIndex": 34,
-      "finalPrice": 300,
-      "regularPrice": 300,
-      "inDate": "2026-11-08T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/wrap_steammarauder/icon.png",
-      "isBundle": false,
-      "types": [
-        "Wrap"
-      ],
-      "rarities": [
-        "Uncommon"
-      ],
-      "items": [
-        {
-          "name": "Kraken's Reach",
-          "type": "Wrap",
-          "rarity": "Uncommon",
-          "artist": null
-        }
-      ]
-    },
-    {
       "id": "5e6b3b68587f4f033693",
       "name": "Still Into You",
-      "section": "Victory Party",
-      "sectionRank": 195,
-      "sectionIndex": 25,
+      "section": "Groove Moves",
+      "sectionRank": 193,
+      "sectionIndex": 7,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -4578,8 +4791,8 @@
       "id": "69e82a5403e75d757096",
       "name": "positions",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -4602,11 +4815,38 @@
       ]
     },
     {
+      "id": "2225bca884e4c7d77d4a",
+      "name": "AIBO",
+      "section": "Signal Boost",
+      "sectionRank": 196,
+      "sectionIndex": 28,
+      "finalPrice": 1500,
+      "regularPrice": 1500,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-16T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/companion_trotudon/icon.png",
+      "isBundle": false,
+      "types": [
+        "Sidekick"
+      ],
+      "rarities": [
+        "Uncommon"
+      ],
+      "items": [
+        {
+          "name": "AIBO",
+          "type": "Sidekick",
+          "rarity": "Uncommon",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "ab2ac9b5233857dcff43",
       "name": "Mana Orbs",
       "section": "Ben 10",
-      "sectionRank": 186,
-      "sectionIndex": 33,
+      "sectionRank": 184,
+      "sectionIndex": 23,
       "finalPrice": 800,
       "regularPrice": 800,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -4629,65 +4869,11 @@
       ]
     },
     {
-      "id": "6a00de16bf9b528d6c46",
-      "name": "Tung Thunker",
-      "section": "Brainrot",
-      "sectionRank": 190,
-      "sectionIndex": 9,
-      "finalPrice": 500,
-      "regularPrice": 500,
-      "inDate": "2026-11-07T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_choruspunt/icon.png",
-      "isBundle": false,
-      "types": [
-        "Pickaxe"
-      ],
-      "rarities": [
-        "Rare"
-      ],
-      "items": [
-        {
-          "name": "Tung Thunker",
-          "type": "Pickaxe",
-          "rarity": "Rare",
-          "artist": null
-        }
-      ]
-    },
-    {
-      "id": "6523a7f28820101026ac",
-      "name": "Simone",
-      "section": "No Sweat",
-      "sectionRank": 182,
-      "sectionIndex": 10,
-      "finalPrice": 800,
-      "regularPrice": 800,
-      "inDate": "2026-11-03T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/character_furyfax/icon.png",
-      "isBundle": false,
-      "types": [
-        "Outfit"
-      ],
-      "rarities": [
-        "Epic"
-      ],
-      "items": [
-        {
-          "name": "Simone",
-          "type": "Outfit",
-          "rarity": "Epic",
-          "artist": null
-        }
-      ]
-    },
-    {
       "id": "31ae108f9514d26c0c6d",
       "name": "NIGHT DANCER",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -4714,7 +4900,7 @@
       "name": "Oro Sol",
       "section": "Other offers",
       "sectionRank": -1,
-      "sectionIndex": 152,
+      "sectionIndex": 157,
       "finalPrice": 300,
       "regularPrice": 300,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -4740,8 +4926,8 @@
       "id": "ea779adfea6f82540213",
       "name": "Feel It Still",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -4764,11 +4950,38 @@
       ]
     },
     {
+      "id": "be8223499e4e558dce84",
+      "name": "She-Ra's Cape",
+      "section": "Masters of the Universe",
+      "sectionRank": 192,
+      "sectionIndex": 29,
+      "finalPrice": 300,
+      "regularPrice": 300,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-13T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/backpack_trickcratecape/icon.png",
+      "isBundle": false,
+      "types": [
+        "Back Bling"
+      ],
+      "rarities": [
+        "Rare"
+      ],
+      "items": [
+        {
+          "name": "She-Ra's Cape",
+          "type": "Back Bling",
+          "rarity": "Rare",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "cf5b2a1184143e259cbf",
       "name": "Trooper's Kamayari",
       "section": "Star Wars",
-      "sectionRank": 192,
-      "sectionIndex": 19,
+      "sectionRank": 188,
+      "sectionIndex": 30,
       "finalPrice": 800,
       "regularPrice": 800,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -4794,8 +5007,8 @@
       "id": "4847dd724a1bebfd799f",
       "name": "Pupper Slippers",
       "section": "Peak Style",
-      "sectionRank": 184,
-      "sectionIndex": 34,
+      "sectionRank": 185,
+      "sectionIndex": 6,
       "finalPrice": 600,
       "regularPrice": 600,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -4818,129 +5031,11 @@
       ]
     },
     {
-      "id": "f06824ae469cc4107b69",
-      "name": "Fate-Carved Warrior Bundle",
-      "section": "Peak Style",
-      "sectionRank": 184,
-      "sectionIndex": 34,
-      "finalPrice": 1500,
-      "regularPrice": 1500,
-      "inDate": "2026-11-03T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/7b08a1d48afccd35/renderimage_0.png",
-      "isBundle": true,
-      "types": [
-        "Outfit",
-        "Back Bling",
-        "Pickaxe",
-        "Wrap"
-      ],
-      "rarities": [
-        "Epic",
-        "Rare",
-        "Uncommon"
-      ],
-      "items": [
-        {
-          "name": "Elowen",
-          "type": "Outfit",
-          "rarity": "Epic",
-          "artist": null
-        },
-        {
-          "name": "Destined Aegis",
-          "type": "Back Bling",
-          "rarity": "Rare",
-          "artist": null
-        },
-        {
-          "name": "Carver of Fate",
-          "type": "Pickaxe",
-          "rarity": "Uncommon",
-          "artist": null
-        },
-        {
-          "name": "Fatecarver Insignia",
-          "type": "Wrap",
-          "rarity": "Uncommon",
-          "artist": null
-        }
-      ]
-    },
-    {
-      "id": "5b5497871a14b0a647a6",
-      "name": "Lola Bunny & Daffy Duck Bundle",
-      "section": "Space Jam",
-      "sectionRank": 183,
-      "sectionIndex": 20,
-      "finalPrice": 3200,
-      "regularPrice": 5100,
-      "inDate": "2026-11-06T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/d6366676d4468360/renderimage_0.png",
-      "isBundle": true,
-      "types": [
-        "Outfit",
-        "Back Bling",
-        "Emote",
-        "Pickaxe"
-      ],
-      "rarities": [
-        "Epic",
-        "Rare",
-        "Uncommon"
-      ],
-      "items": [
-        {
-          "name": "Daffy Duck",
-          "type": "Outfit",
-          "rarity": "Epic",
-          "artist": null
-        },
-        {
-          "name": "Duck Dodgers' Rocket",
-          "type": "Back Bling",
-          "rarity": "Rare",
-          "artist": null
-        },
-        {
-          "name": "Lola Bunny",
-          "type": "Outfit",
-          "rarity": "Epic",
-          "artist": null
-        },
-        {
-          "name": "Bunny Hops",
-          "type": "Back Bling",
-          "rarity": "Rare",
-          "artist": null
-        },
-        {
-          "name": "Quacking Up",
-          "type": "Emote",
-          "rarity": "Uncommon",
-          "artist": null
-        },
-        {
-          "name": "Lola's Game Ball",
-          "type": "Pickaxe",
-          "rarity": "Rare",
-          "artist": null
-        },
-        {
-          "name": "The Golden Daffy",
-          "type": "Pickaxe",
-          "rarity": "Rare",
-          "artist": null
-        }
-      ]
-    },
-    {
       "id": "803f0dcca378ddeb71cb",
       "name": "abcdefu",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -4963,11 +5058,38 @@
       ]
     },
     {
+      "id": "bfd4e3f792b15df1442e",
+      "name": "Arcanum",
+      "section": "Other offers",
+      "sectionRank": -1,
+      "sectionIndex": 163,
+      "finalPrice": 300,
+      "regularPrice": 300,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-11T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/bid_128_plaguefemale/icon.png",
+      "isBundle": false,
+      "types": [
+        "Back Bling"
+      ],
+      "rarities": [
+        "Epic"
+      ],
+      "items": [
+        {
+          "name": "Arcanum",
+          "type": "Back Bling",
+          "rarity": "Epic",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "5e6d5dd90fc854fb174e",
       "name": "Into You",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-10-30T00:00:00.000Z",
@@ -4993,8 +5115,8 @@
       "id": "f1ac45dea6cbee4678e0",
       "name": "Golden King Bundle",
       "section": "Treasure Hunters",
-      "sectionRank": 191,
-      "sectionIndex": 7,
+      "sectionRank": 190,
+      "sectionIndex": 16,
       "finalPrice": 2500,
       "regularPrice": 3300,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -5042,8 +5164,8 @@
       "id": "40c671b93ac1abfe7319",
       "name": "Lil' TIE Attack",
       "section": "Star Wars",
-      "sectionRank": 192,
-      "sectionIndex": 19,
+      "sectionRank": 188,
+      "sectionIndex": 30,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -5069,8 +5191,8 @@
       "id": "7a8cae9c6f17d5d57aca",
       "name": "Wild Ones",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-10-30T00:00:00.000Z",
@@ -5096,8 +5218,8 @@
       "id": "a53b3376cc3f67fd8719",
       "name": "The Middle",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -5120,11 +5242,45 @@
       ]
     },
     {
+      "id": "a40ed59a92b2d6fbcc6b",
+      "name": "Jawbreaker + 1 included item",
+      "section": "Peak Style",
+      "sectionRank": 185,
+      "sectionIndex": 6,
+      "finalPrice": 1200,
+      "regularPrice": 1200,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-11T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/65891a844ca0f7c1/renderimage_0.png",
+      "isBundle": true,
+      "types": [
+        "Outfit",
+        "Back Bling"
+      ],
+      "rarities": [
+        "Rare"
+      ],
+      "items": [
+        {
+          "name": "Jawbreaker",
+          "type": "Outfit",
+          "rarity": "Rare",
+          "artist": null
+        },
+        {
+          "name": "Containment Unit",
+          "type": "Back Bling",
+          "rarity": "Rare",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "6c44310ea0a47c805188",
       "name": "Boston",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-06T00:00:00.000Z",
@@ -5150,8 +5306,8 @@
       "id": "f2ddc68b801b118aefee",
       "name": "Jack Skellington Bundle",
       "section": "Gothic Lookbook",
-      "sectionRank": 185,
-      "sectionIndex": 16,
+      "sectionRank": 186,
+      "sectionIndex": 3,
       "finalPrice": 2600,
       "regularPrice": 4000,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -5203,27 +5359,27 @@
       ]
     },
     {
-      "id": "45c195fa79e5193ec6f6",
-      "name": "Lola's Game Ball",
-      "section": "Space Jam",
-      "sectionRank": 183,
-      "sectionIndex": 20,
-      "finalPrice": 800,
-      "regularPrice": 800,
-      "inDate": "2026-11-06T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_brinegleam/icon.png",
+      "id": "decd40309e757c211e99",
+      "name": "Hangfire",
+      "section": "No Sweat",
+      "sectionRank": 189,
+      "sectionIndex": 15,
+      "finalPrice": 1200,
+      "regularPrice": 1200,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-16T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/character_tacticmushroom_d/icon.png",
       "isBundle": false,
       "types": [
-        "Pickaxe"
+        "Outfit"
       ],
       "rarities": [
         "Rare"
       ],
       "items": [
         {
-          "name": "Lola's Game Ball",
-          "type": "Pickaxe",
+          "name": "Hangfire",
+          "type": "Outfit",
           "rarity": "Rare",
           "artist": null
         }
@@ -5233,8 +5389,8 @@
       "id": "d106b358e3a2218614f4",
       "name": "Tribute's Flail",
       "section": "Treasure Hunters",
-      "sectionRank": 191,
-      "sectionIndex": 7,
+      "sectionRank": 190,
+      "sectionIndex": 16,
       "finalPrice": 1200,
       "regularPrice": 1200,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -5257,71 +5413,11 @@
       ]
     },
     {
-      "id": "7b04824b7d0fe85df7aa",
-      "name": "Brainrot Bundle",
-      "section": "Brainrot",
-      "sectionRank": 190,
-      "sectionIndex": 9,
-      "finalPrice": 2400,
-      "regularPrice": 4300,
-      "inDate": "2026-11-07T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/48ab31a4a4818c82/renderimage_0.png",
-      "isBundle": true,
-      "types": [
-        "Outfit",
-        "Pickaxe",
-        "Wrap"
-      ],
-      "rarities": [
-        "Epic",
-        "Rare"
-      ],
-      "items": [
-        {
-          "name": "Tung Tung Tung Sahur",
-          "type": "Outfit",
-          "rarity": "Epic",
-          "artist": null
-        },
-        {
-          "name": "Tung Thunker",
-          "type": "Pickaxe",
-          "rarity": "Rare",
-          "artist": null
-        },
-        {
-          "name": "Tung Tung Tung Wraphur",
-          "type": "Wrap",
-          "rarity": "Rare",
-          "artist": null
-        },
-        {
-          "name": "Ballerina Cappuccina",
-          "type": "Outfit",
-          "rarity": "Epic",
-          "artist": null
-        },
-        {
-          "name": "Ballerina's Spoon-erina",
-          "type": "Pickaxe",
-          "rarity": "Rare",
-          "artist": null
-        },
-        {
-          "name": "Wrappuccina",
-          "type": "Wrap",
-          "rarity": "Rare",
-          "artist": null
-        }
-      ]
-    },
-    {
       "id": "a3c0979e9b8ffd3fab3b",
       "name": "Happy",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -5347,8 +5443,8 @@
       "id": "94a0bccc70ac14f1fa9a",
       "name": "Message From Flacko",
       "section": "A$AP Rocky",
-      "sectionRank": 197,
-      "sectionIndex": 11,
+      "sectionRank": 195,
+      "sectionIndex": 31,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-06T00:00:00.000Z",
@@ -5373,9 +5469,9 @@
     {
       "id": "9c30bb61775ac17eef80",
       "name": "Fireball",
-      "section": "Victory Party",
-      "sectionRank": 195,
-      "sectionIndex": 25,
+      "section": "Groove Moves",
+      "sectionRank": 193,
+      "sectionIndex": 7,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -5398,38 +5494,11 @@
       ]
     },
     {
-      "id": "90e29fff639f1542179d",
-      "name": "Free Kick Maverick",
-      "section": "Peak Style",
-      "sectionRank": 184,
-      "sectionIndex": 34,
-      "finalPrice": 1500,
-      "regularPrice": 1500,
-      "inDate": "2026-11-09T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/character_impulsespring_b/icon.png",
-      "isBundle": false,
-      "types": [
-        "Outfit"
-      ],
-      "rarities": [
-        "Epic"
-      ],
-      "items": [
-        {
-          "name": "Free Kick Maverick",
-          "type": "Outfit",
-          "rarity": "Epic",
-          "artist": null
-        }
-      ]
-    },
-    {
       "id": "b3b630249426e81a447b",
       "name": "null",
       "section": "A$AP Rocky",
-      "sectionRank": 197,
-      "sectionIndex": 11,
+      "sectionRank": 195,
+      "sectionIndex": 31,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-06T00:00:00.000Z",
@@ -5452,11 +5521,38 @@
       ]
     },
     {
+      "id": "3c0537a7bb34973927c0",
+      "name": "Lamplight",
+      "section": "Peak Style",
+      "sectionRank": 185,
+      "sectionIndex": 6,
+      "finalPrice": 800,
+      "regularPrice": 800,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-11T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/glider_id_084_plague/icon.png",
+      "isBundle": false,
+      "types": [
+        "Glider"
+      ],
+      "rarities": [
+        "Rare"
+      ],
+      "items": [
+        {
+          "name": "Lamplight",
+          "type": "Glider",
+          "rarity": "Rare",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "3e62e4ff4c8dc58bf2a4",
       "name": "Stellaron Hunter Kafka",
       "section": "Honkai Star Rail",
-      "sectionRank": 193,
-      "sectionIndex": 28,
+      "sectionRank": 191,
+      "sectionIndex": 4,
       "finalPrice": 1500,
       "regularPrice": 1500,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -5489,8 +5585,8 @@
       "id": "669658800ca7cc8e16bf",
       "name": "Monster",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -5513,46 +5609,11 @@
       ]
     },
     {
-      "id": "be1ba7948cd9bf238189",
-      "name": "Fate-Carved Warrior Bundle",
-      "section": "Other offers",
-      "sectionRank": -1,
-      "sectionIndex": 176,
-      "finalPrice": 1000,
-      "regularPrice": 1000,
-      "inDate": "2026-11-03T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/7b08a1d48afccd35/renderimage_0.png",
-      "isBundle": true,
-      "types": [
-        "Outfit",
-        "Pickaxe"
-      ],
-      "rarities": [
-        "Epic",
-        "Uncommon"
-      ],
-      "items": [
-        {
-          "name": "Elowen",
-          "type": "Outfit",
-          "rarity": "Epic",
-          "artist": null
-        },
-        {
-          "name": "Carver of Fate",
-          "type": "Pickaxe",
-          "rarity": "Uncommon",
-          "artist": null
-        }
-      ]
-    },
-    {
       "id": "4fc32ba950447d173250",
       "name": "PROVENZA (REMIX)",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -5575,38 +5636,11 @@
       ]
     },
     {
-      "id": "753580d12e43e270023a",
-      "name": "Air Jordan 11 Retro OG ‘Space Jam’",
-      "section": "Space Jam",
-      "sectionRank": 183,
-      "sectionIndex": 20,
-      "finalPrice": 1000,
-      "regularPrice": 1000,
-      "inDate": "2026-11-03T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/shoes_chompzips/icon.png",
-      "isBundle": false,
-      "types": [
-        "Shoes"
-      ],
-      "rarities": [
-        "Uncommon"
-      ],
-      "items": [
-        {
-          "name": "Air Jordan 11 Retro OG ‘Space Jam’",
-          "type": "Shoes",
-          "rarity": "Uncommon",
-          "artist": null
-        }
-      ]
-    },
-    {
       "id": "dbf36cae8d054a4bac08",
       "name": "All The Small Things",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -5632,8 +5666,8 @@
       "id": "d71597d98272072205b4",
       "name": "Mambo No. 5 (A Little Bit of...)",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -5658,9 +5692,9 @@
     {
       "id": "484dbce33646d9d2e952",
       "name": "BIRDS OF A FEATHER",
-      "section": "Victory Party",
-      "sectionRank": 195,
-      "sectionIndex": 25,
+      "section": "Groove Moves",
+      "sectionRank": 193,
+      "sectionIndex": 7,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -5686,8 +5720,8 @@
       "id": "71fcdee20552f3828b3e",
       "name": "Snoop Dogg | Cadillac",
       "section": "Snoop Dogg I Cadillac",
-      "sectionRank": 177,
-      "sectionIndex": 26,
+      "sectionRank": 178,
+      "sectionIndex": 0,
       "finalPrice": 2800,
       "regularPrice": 2800,
       "inDate": "2026-11-04T00:00:00.000Z",
@@ -5742,11 +5776,38 @@
       ]
     },
     {
+      "id": "31c73b827a36e6d07896",
+      "name": "Sir Wyvern",
+      "section": "Peak Style",
+      "sectionRank": 185,
+      "sectionIndex": 6,
+      "finalPrice": 1200,
+      "regularPrice": 1200,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-16T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/companion_rarekrow/icon.png",
+      "isBundle": false,
+      "types": [
+        "Sidekick"
+      ],
+      "rarities": [
+        "Uncommon"
+      ],
+      "items": [
+        {
+          "name": "Sir Wyvern",
+          "type": "Sidekick",
+          "rarity": "Uncommon",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "e2c8580af74ae50e02cf",
       "name": "Sally + 1 included item",
       "section": "Gothic Lookbook",
-      "sectionRank": 185,
-      "sectionIndex": 16,
+      "sectionRank": 186,
+      "sectionIndex": 3,
       "finalPrice": 1500,
       "regularPrice": 1500,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -5777,11 +5838,38 @@
       ]
     },
     {
+      "id": "1ce617368fe88425f434",
+      "name": "Squawk Sack",
+      "section": "Other offers",
+      "sectionRank": -1,
+      "sectionIndex": 188,
+      "finalPrice": 300,
+      "regularPrice": 300,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-14T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/backpack_cosmicsquatter/icon.png",
+      "isBundle": false,
+      "types": [
+        "Back Bling"
+      ],
+      "rarities": [
+        "Rare"
+      ],
+      "items": [
+        {
+          "name": "Squawk Sack",
+          "type": "Back Bling",
+          "rarity": "Rare",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "952c3110fc198ee87db2",
       "name": "Scissor Hands",
       "section": "Other offers",
       "sectionRank": -1,
-      "sectionIndex": 184,
+      "sectionIndex": 189,
       "finalPrice": 800,
       "regularPrice": 800,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -5807,8 +5895,8 @@
       "id": "42a976ea55d62a44473e",
       "name": "Vulcan",
       "section": "Vulcan",
-      "sectionRank": 179,
-      "sectionIndex": 22,
+      "sectionRank": 180,
+      "sectionIndex": 21,
       "finalPrice": 1500,
       "regularPrice": 1500,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -5843,11 +5931,38 @@
       ]
     },
     {
+      "id": "de34fcb01c9c9eb4ac5d",
+      "name": "Lane Splitter",
+      "section": "Other offers",
+      "sectionRank": -1,
+      "sectionIndex": 191,
+      "finalPrice": 300,
+      "regularPrice": 300,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-16T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/bid_090_streetracerwhitemale/icon.png",
+      "isBundle": false,
+      "types": [
+        "Back Bling"
+      ],
+      "rarities": [
+        "Epic"
+      ],
+      "items": [
+        {
+          "name": "Lane Splitter",
+          "type": "Back Bling",
+          "rarity": "Epic",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "ba94376b8a16bba681c4",
       "name": "A$AP Rockets",
       "section": "A$AP Rocky",
-      "sectionRank": 197,
-      "sectionIndex": 11,
+      "sectionRank": 195,
+      "sectionIndex": 31,
       "finalPrice": 400,
       "regularPrice": 400,
       "inDate": "2026-11-06T00:00:00.000Z",
@@ -5873,8 +5988,8 @@
       "id": "61595d2de94caefabc02",
       "name": "Gangnam Style",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -5897,11 +6012,38 @@
       ]
     },
     {
+      "id": "200239ab473b8dd4c4ed",
+      "name": "Variable Slicer",
+      "section": "Signal Boost",
+      "sectionRank": 196,
+      "sectionIndex": 28,
+      "finalPrice": 800,
+      "regularPrice": 800,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-16T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_ionvial/icon.png",
+      "isBundle": false,
+      "types": [
+        "Pickaxe"
+      ],
+      "rarities": [
+        "Rare"
+      ],
+      "items": [
+        {
+          "name": "Variable Slicer",
+          "type": "Pickaxe",
+          "rarity": "Rare",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "9e9961f921b0075a35bf",
       "name": "On The Floor",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -5927,8 +6069,8 @@
       "id": "a6dd2fddc9c3b300648f",
       "name": "Vans Sk8-Hi 'Black & White'",
       "section": "Peak Style",
-      "sectionRank": 184,
-      "sectionIndex": 34,
+      "sectionRank": 185,
+      "sectionIndex": 6,
       "finalPrice": 800,
       "regularPrice": 800,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -5955,7 +6097,7 @@
       "name": "Golden Skully Satchel",
       "section": "Other offers",
       "sectionRank": -1,
-      "sectionIndex": 190,
+      "sectionIndex": 197,
       "finalPrice": 200,
       "regularPrice": 200,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -5981,8 +6123,8 @@
       "id": "11dec6227fbefd854ac6",
       "name": "The Hills",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-06T00:00:00.000Z",
@@ -6009,7 +6151,7 @@
       "name": "Tony Tony Chopper",
       "section": "One Piece",
       "sectionRank": 198,
-      "sectionIndex": 13,
+      "sectionIndex": 10,
       "finalPrice": 1500,
       "regularPrice": 1500,
       "inDate": "2026-11-08T00:00:00.000Z",
@@ -6032,11 +6174,72 @@
       ]
     },
     {
+      "id": "2d9429f46696844a4d35",
+      "name": "Grim Medicine Bundle",
+      "section": "Peak Style",
+      "sectionRank": 185,
+      "sectionIndex": 6,
+      "finalPrice": 2200,
+      "regularPrice": 4600,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-11T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/bee9a09be5daceb0/renderimage_0.png",
+      "isBundle": true,
+      "types": [
+        "Outfit",
+        "Back Bling",
+        "Pickaxe",
+        "Glider"
+      ],
+      "rarities": [
+        "Epic",
+        "Rare"
+      ],
+      "items": [
+        {
+          "name": "Scourge",
+          "type": "Outfit",
+          "rarity": "Epic",
+          "artist": null
+        },
+        {
+          "name": "Arcanum",
+          "type": "Back Bling",
+          "rarity": "Epic",
+          "artist": null
+        },
+        {
+          "name": "Plague",
+          "type": "Outfit",
+          "rarity": "Epic",
+          "artist": null
+        },
+        {
+          "name": "Dismal Cape",
+          "type": "Back Bling",
+          "rarity": "Epic",
+          "artist": null
+        },
+        {
+          "name": "Herald's Wand",
+          "type": "Pickaxe",
+          "rarity": "Rare",
+          "artist": null
+        },
+        {
+          "name": "Lamplight",
+          "type": "Glider",
+          "rarity": "Rare",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "518f10f54b6c9e5258c6",
       "name": "Cutting Words",
       "section": "Other offers",
       "sectionRank": -1,
-      "sectionIndex": 193,
+      "sectionIndex": 201,
       "finalPrice": 800,
       "regularPrice": 800,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -6059,38 +6262,11 @@
       ]
     },
     {
-      "id": "19bad5b963a94d64f83a",
-      "name": "Scrappy",
-      "section": "Other offers",
-      "sectionRank": -1,
-      "sectionIndex": 194,
-      "finalPrice": 200,
-      "regularPrice": 200,
-      "inDate": "2026-11-03T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/bid_206_scrapyardfemale/icon.png",
-      "isBundle": false,
-      "types": [
-        "Back Bling"
-      ],
-      "rarities": [
-        "Rare"
-      ],
-      "items": [
-        {
-          "name": "Scrappy",
-          "type": "Back Bling",
-          "rarity": "Rare",
-          "artist": null
-        }
-      ]
-    },
-    {
       "id": "241b16a2a7a1c52844a4",
       "name": "Chigusa + 1 included item",
       "section": "Other offers",
       "sectionRank": -1,
-      "sectionIndex": 195,
+      "sectionIndex": 202,
       "finalPrice": 1200,
       "regularPrice": 1200,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -6124,7 +6300,7 @@
       "name": "Climate Baton",
       "section": "One Piece",
       "sectionRank": 198,
-      "sectionIndex": 13,
+      "sectionIndex": 10,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -6147,11 +6323,45 @@
       ]
     },
     {
+      "id": "a0b04cf9702354ad35e5",
+      "name": "Overtaker + 1 included item",
+      "section": "Signal Boost",
+      "sectionRank": 196,
+      "sectionIndex": 28,
+      "finalPrice": 1500,
+      "regularPrice": 1500,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-16T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/7ccd2ae98e75250e/renderimage_0.png",
+      "isBundle": true,
+      "types": [
+        "Outfit",
+        "Back Bling"
+      ],
+      "rarities": [
+        "Epic"
+      ],
+      "items": [
+        {
+          "name": "Overtaker",
+          "type": "Outfit",
+          "rarity": "Epic",
+          "artist": null
+        },
+        {
+          "name": "Lane Splitter",
+          "type": "Back Bling",
+          "rarity": "Epic",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "3769414f38c73149fad5",
       "name": "March Of The Pigs",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -6174,38 +6384,11 @@
       ]
     },
     {
-      "id": "822b48434e25707d58d7",
-      "name": "Destined Aegis",
-      "section": "Other offers",
-      "sectionRank": -1,
-      "sectionIndex": 198,
-      "finalPrice": 200,
-      "regularPrice": 200,
-      "inDate": "2026-11-03T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/backpack_autumndelivery/icon.png",
-      "isBundle": false,
-      "types": [
-        "Back Bling"
-      ],
-      "rarities": [
-        "Rare"
-      ],
-      "items": [
-        {
-          "name": "Destined Aegis",
-          "type": "Back Bling",
-          "rarity": "Rare",
-          "artist": null
-        }
-      ]
-    },
-    {
       "id": "a5c2cc7edeffcc572f49",
       "name": "Fell In Love With A Girl",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -6231,8 +6414,8 @@
       "id": "1f1b6f0273a666e83dc6",
       "name": "Love Me Not",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -6258,8 +6441,8 @@
       "id": "ba6fad4f4cc6a326e6d7",
       "name": "Gold Blooded Ace",
       "section": "Treasure Hunters",
-      "sectionRank": 191,
-      "sectionIndex": 7,
+      "sectionRank": 190,
+      "sectionIndex": 16,
       "finalPrice": 1000,
       "regularPrice": 1000,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -6285,8 +6468,8 @@
       "id": "e13ce13496509111532c",
       "name": "Feather",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -6312,8 +6495,8 @@
       "id": "585a3eb41a9f13efcf2e",
       "name": "Feel Good Inc",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-06T00:00:00.000Z",
@@ -6339,8 +6522,8 @@
       "id": "ca1f3ed2b306d9f4537f",
       "name": "I Wish",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -6367,7 +6550,7 @@
       "name": "Sl1c3 // D1c3",
       "section": "Other offers",
       "sectionRank": -1,
-      "sectionIndex": 205,
+      "sectionIndex": 212,
       "finalPrice": 800,
       "regularPrice": 800,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -6390,73 +6573,11 @@
       ]
     },
     {
-      "id": "6bab75bf519b44d93230",
-      "name": "Screwy, ain't it?",
-      "section": "Space Jam",
-      "sectionRank": 183,
-      "sectionIndex": 20,
-      "finalPrice": 500,
-      "regularPrice": 500,
-      "inDate": "2026-11-06T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/wrap_trowelrake/icon.png",
-      "isBundle": false,
-      "types": [
-        "Wrap"
-      ],
-      "rarities": [
-        "Rare"
-      ],
-      "items": [
-        {
-          "name": "Screwy, ain't it?",
-          "type": "Wrap",
-          "rarity": "Rare",
-          "artist": null
-        }
-      ]
-    },
-    {
-      "id": "ba199c2781b42257cf13",
-      "name": "Daffy Duck",
-      "section": "Space Jam",
-      "sectionRank": 183,
-      "sectionIndex": 20,
-      "finalPrice": 1500,
-      "regularPrice": 1500,
-      "inDate": "2026-11-06T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/d732da29219d3798/renderimage_0.png",
-      "isBundle": true,
-      "types": [
-        "Outfit",
-        "Back Bling"
-      ],
-      "rarities": [
-        "Epic",
-        "Rare"
-      ],
-      "items": [
-        {
-          "name": "Daffy Duck",
-          "type": "Outfit",
-          "rarity": "Epic",
-          "artist": null
-        },
-        {
-          "name": "Duck Dodgers' Rocket",
-          "type": "Back Bling",
-          "rarity": "Rare",
-          "artist": null
-        }
-      ]
-    },
-    {
       "id": "33de0983f8828a43bc18",
       "name": "Nemia's Slippers",
       "section": "Treasure Hunters",
-      "sectionRank": 191,
-      "sectionIndex": 7,
+      "sectionRank": 190,
+      "sectionIndex": 16,
       "finalPrice": 600,
       "regularPrice": 600,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -6483,7 +6604,7 @@
       "name": "Ice Sculptor",
       "section": "Other offers",
       "sectionRank": -1,
-      "sectionIndex": 209,
+      "sectionIndex": 214,
       "finalPrice": 400,
       "regularPrice": 400,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -6509,8 +6630,8 @@
       "id": "0b613a9d55a088673bfa",
       "name": "Kado Elite",
       "section": "Signal Boost",
-      "sectionRank": 187,
-      "sectionIndex": 24,
+      "sectionRank": 196,
+      "sectionIndex": 28,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-05T00:00:00.000Z",
@@ -6533,11 +6654,38 @@
       ]
     },
     {
+      "id": "aac58bdf3843cf1370f4",
+      "name": "Dark Scaly",
+      "section": "Other offers",
+      "sectionRank": -1,
+      "sectionIndex": 216,
+      "finalPrice": 300,
+      "regularPrice": 300,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-16T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/bid_382_darkdinomale/icon.png",
+      "isBundle": false,
+      "types": [
+        "Back Bling"
+      ],
+      "rarities": [
+        "DARK SERIES"
+      ],
+      "items": [
+        {
+          "name": "Dark Scaly",
+          "type": "Back Bling",
+          "rarity": "DARK SERIES",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "531e6d8a44a52f3c5364",
       "name": "Golden Ascension",
       "section": "Treasure Hunters",
-      "sectionRank": 191,
-      "sectionIndex": 7,
+      "sectionRank": 190,
+      "sectionIndex": 16,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -6563,8 +6711,8 @@
       "id": "4fe5926a2b81f45d2446",
       "name": "High Hopes",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -6587,11 +6735,53 @@
       ]
     },
     {
+      "id": "8dc2f756d857c9aa7e0f",
+      "name": "He-Man",
+      "section": "Masters of the Universe",
+      "sectionRank": 192,
+      "sectionIndex": 29,
+      "finalPrice": 1800,
+      "regularPrice": 1800,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-13T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/0c006cff2506c893/renderimage_0.png",
+      "isBundle": true,
+      "types": [
+        "Outfit",
+        "Back Bling",
+        "Pickaxe"
+      ],
+      "rarities": [
+        "Epic",
+        "Rare"
+      ],
+      "items": [
+        {
+          "name": "He-Man",
+          "type": "Outfit",
+          "rarity": "Epic",
+          "artist": null
+        },
+        {
+          "name": "Power Scabbard",
+          "type": "Back Bling",
+          "rarity": "Rare",
+          "artist": null
+        },
+        {
+          "name": "He-Man's Weaponry",
+          "type": "Pickaxe",
+          "rarity": "Rare",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "21b317eb58e850b6711c",
       "name": "T-Rex Topiary",
       "section": "Other offers",
       "sectionRank": -1,
-      "sectionIndex": 213,
+      "sectionIndex": 220,
       "finalPrice": 300,
       "regularPrice": 300,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -6617,8 +6807,8 @@
       "id": "e66e3e3f2fe510c10b33",
       "name": "Misery Business",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -6644,8 +6834,8 @@
       "id": "0573d231120d7540d1d9",
       "name": "A$AP Rocky Bundle",
       "section": "A$AP Rocky",
-      "sectionRank": 197,
-      "sectionIndex": 11,
+      "sectionRank": 195,
+      "sectionIndex": 31,
       "finalPrice": 3200,
       "regularPrice": 8800,
       "inDate": "2026-11-06T00:00:00.000Z",
@@ -6758,7 +6948,7 @@
       "name": "Straw Hats Bundle",
       "section": "One Piece",
       "sectionRank": 198,
-      "sectionIndex": 13,
+      "sectionIndex": 10,
       "finalPrice": 3200,
       "regularPrice": 4900,
       "inDate": "2026-11-08T00:00:00.000Z",
@@ -6832,8 +7022,8 @@
       "id": "ce3222a7abaedc54a91f",
       "name": "Lunelle",
       "section": "Signal Boost",
-      "sectionRank": 187,
-      "sectionIndex": 24,
+      "sectionRank": 196,
+      "sectionIndex": 28,
       "finalPrice": 800,
       "regularPrice": 800,
       "inDate": "2026-11-04T00:00:00.000Z",
@@ -6859,8 +7049,8 @@
       "id": "fde6d4f528b0bff9cd2b",
       "name": "Stellaron Hunter Kafka Bundle",
       "section": "Honkai Star Rail",
-      "sectionRank": 193,
-      "sectionIndex": 28,
+      "sectionRank": 191,
+      "sectionIndex": 4,
       "finalPrice": 1800,
       "regularPrice": 2300,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -6897,65 +7087,11 @@
       ]
     },
     {
-      "id": "a288e2be8773c3366d7a",
-      "name": "Ballerina's Spoon-erina",
-      "section": "Brainrot",
-      "sectionRank": 190,
-      "sectionIndex": 9,
-      "finalPrice": 800,
-      "regularPrice": 800,
-      "inDate": "2026-11-07T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_lumpymuddy/icon.png",
-      "isBundle": false,
-      "types": [
-        "Pickaxe"
-      ],
-      "rarities": [
-        "Rare"
-      ],
-      "items": [
-        {
-          "name": "Ballerina's Spoon-erina",
-          "type": "Pickaxe",
-          "rarity": "Rare",
-          "artist": null
-        }
-      ]
-    },
-    {
-      "id": "df733c7b85297e731e08",
-      "name": "Bay",
-      "section": "No Sweat",
-      "sectionRank": 182,
-      "sectionIndex": 10,
-      "finalPrice": 800,
-      "regularPrice": 800,
-      "inDate": "2026-11-03T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/character_scubadasher/icon.png",
-      "isBundle": false,
-      "types": [
-        "Outfit"
-      ],
-      "rarities": [
-        "Epic"
-      ],
-      "items": [
-        {
-          "name": "Bay",
-          "type": "Outfit",
-          "rarity": "Epic",
-          "artist": null
-        }
-      ]
-    },
-    {
       "id": "4001fce52c3a7dee5c33",
       "name": "Kafka's Sword",
       "section": "Honkai Star Rail",
-      "sectionRank": 193,
-      "sectionIndex": 28,
+      "sectionRank": 191,
+      "sectionIndex": 4,
       "finalPrice": 800,
       "regularPrice": 800,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -6978,35 +7114,27 @@
       ]
     },
     {
-      "id": "ead3de1352a22f9ab96c",
-      "name": "Ballerina Cappuccina",
-      "section": "Brainrot",
-      "sectionRank": 190,
-      "sectionIndex": 9,
-      "finalPrice": 1500,
-      "regularPrice": 1500,
-      "inDate": "2026-11-07T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/4f2eb21b6ddc6c6c/renderimage_0.png",
-      "isBundle": true,
+      "id": "b351cb1359c285b1b515",
+      "name": "Ohm's Mantle",
+      "section": "Other offers",
+      "sectionRank": -1,
+      "sectionIndex": 227,
+      "finalPrice": 400,
+      "regularPrice": 400,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-16T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/bid_746_armoredengineer/icon.png",
+      "isBundle": false,
       "types": [
-        "Outfit",
-        "Wrap"
+        "Back Bling"
       ],
       "rarities": [
-        "Epic",
         "Rare"
       ],
       "items": [
         {
-          "name": "Ballerina Cappuccina",
-          "type": "Outfit",
-          "rarity": "Epic",
-          "artist": null
-        },
-        {
-          "name": "Wrappuccina",
-          "type": "Wrap",
+          "name": "Ohm's Mantle",
+          "type": "Back Bling",
           "rarity": "Rare",
           "artist": null
         }
@@ -7016,8 +7144,8 @@
       "id": "875fd623e08ab6411e29",
       "name": "Ravenpool + 1 included item",
       "section": "Deadpool Mashups",
-      "sectionRank": 188,
-      "sectionIndex": 15,
+      "sectionRank": 187,
+      "sectionIndex": 25,
       "finalPrice": 1500,
       "regularPrice": 1500,
       "inDate": "2026-11-08T00:00:00.000Z",
@@ -7047,38 +7175,11 @@
       ]
     },
     {
-      "id": "cbfe5c92679afbbf8442",
-      "name": "Tung Tung Tung Wraphur",
-      "section": "Brainrot",
-      "sectionRank": 190,
-      "sectionIndex": 9,
-      "finalPrice": 500,
-      "regularPrice": 500,
-      "inDate": "2026-11-07T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/wrap_choruspunt/icon.png",
-      "isBundle": false,
-      "types": [
-        "Wrap"
-      ],
-      "rarities": [
-        "Rare"
-      ],
-      "items": [
-        {
-          "name": "Tung Tung Tung Wraphur",
-          "type": "Wrap",
-          "rarity": "Rare",
-          "artist": null
-        }
-      ]
-    },
-    {
       "id": "65858938aabc8ba1091e",
       "name": "Nami's Tangerines",
       "section": "One Piece",
       "sectionRank": 198,
-      "sectionIndex": 13,
+      "sectionIndex": 10,
       "finalPrice": 300,
       "regularPrice": 300,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -7104,8 +7205,8 @@
       "id": "387e0b5a11997c532f0b",
       "name": "Fly",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -7131,8 +7232,8 @@
       "id": "a2a253efaec059519b1e",
       "name": "Orelia + 1 included item",
       "section": "Treasure Hunters",
-      "sectionRank": 191,
-      "sectionIndex": 7,
+      "sectionRank": 190,
+      "sectionIndex": 16,
       "finalPrice": 1500,
       "regularPrice": 1500,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -7162,76 +7263,28 @@
       ]
     },
     {
-      "id": "69a349fe455318b8e26b",
-      "name": "Pepper Thorne + 1 included item",
-      "section": "Peak Style",
-      "sectionRank": 184,
-      "sectionIndex": 34,
-      "finalPrice": 1200,
-      "regularPrice": 1200,
-      "inDate": "2026-11-03T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/7ccc2e0fb37d2b67/renderimage_0.png",
-      "isBundle": true,
+      "id": "063933f960a700b3a654",
+      "name": "Seat of Defeat",
+      "section": "Masters of the Universe",
+      "sectionRank": 192,
+      "sectionIndex": 29,
+      "finalPrice": 300,
+      "regularPrice": 300,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-13T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/eid_prismglee/icon.png",
+      "isBundle": false,
       "types": [
-        "Outfit",
-        "Back Bling"
+        "Emote"
       ],
       "rarities": [
-        "Rare"
+        "Uncommon"
       ],
       "items": [
         {
-          "name": "Pepper Thorne",
-          "type": "Outfit",
-          "rarity": "Rare",
-          "artist": null
-        },
-        {
-          "name": "Hard Case Hero",
-          "type": "Back Bling",
-          "rarity": "Rare",
-          "artist": null
-        }
-      ]
-    },
-    {
-      "id": "e3973dcc30a69437b616",
-      "name": "Sorina + 2 included items",
-      "section": "No Sweat",
-      "sectionRank": 182,
-      "sectionIndex": 10,
-      "finalPrice": 1400,
-      "regularPrice": 1400,
-      "inDate": "2026-11-03T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/efcd6d3a1e6637ae/renderimage_0.png",
-      "isBundle": true,
-      "types": [
-        "Outfit",
-        "Back Bling",
-        "Pickaxe"
-      ],
-      "rarities": [
-        "Rare"
-      ],
-      "items": [
-        {
-          "name": "Sorina",
-          "type": "Outfit",
-          "rarity": "Rare",
-          "artist": null
-        },
-        {
-          "name": "Nightforged Blades",
-          "type": "Back Bling",
-          "rarity": "Rare",
-          "artist": null
-        },
-        {
-          "name": "Nightforged Blades",
-          "type": "Pickaxe",
-          "rarity": "Rare",
+          "name": "Seat of Defeat",
+          "type": "Emote",
+          "rarity": "Uncommon",
           "artist": null
         }
       ]
@@ -7240,8 +7293,8 @@
       "id": "d6c7a3312474a6e5d62d",
       "name": "Die With A Smile",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -7266,9 +7319,9 @@
     {
       "id": "13c0f80d6e95142f8166",
       "name": "Starting Prance",
-      "section": "Victory Party",
-      "sectionRank": 195,
-      "sectionIndex": 25,
+      "section": "Groove Moves",
+      "sectionRank": 193,
+      "sectionIndex": 7,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -7291,38 +7344,11 @@
       ]
     },
     {
-      "id": "940f018ccc37768be6eb",
-      "name": "Rabbit Season",
-      "section": "Space Jam",
-      "sectionRank": 183,
-      "sectionIndex": 20,
-      "finalPrice": 300,
-      "regularPrice": 300,
-      "inDate": "2026-11-06T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/eid_trowelrake/icon.png",
-      "isBundle": false,
-      "types": [
-        "Emote"
-      ],
-      "rarities": [
-        "Uncommon"
-      ],
-      "items": [
-        {
-          "name": "Rabbit Season",
-          "type": "Emote",
-          "rarity": "Uncommon",
-          "artist": null
-        }
-      ]
-    },
-    {
       "id": "3e1ea1008bb027d90b1d",
       "name": "Hysteria",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -7347,9 +7373,9 @@
     {
       "id": "f458a87d7000895f68c3",
       "name": "Mantra",
-      "section": "Victory Party",
-      "sectionRank": 195,
-      "sectionIndex": 25,
+      "section": "Groove Moves",
+      "sectionRank": 193,
+      "sectionIndex": 7,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -7375,8 +7401,8 @@
       "id": "3a7a15dba90ea08512ff",
       "name": "It Takes Two",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -7402,8 +7428,8 @@
       "id": "2be1aad132ed360f26f7",
       "name": "Wildberry Lillet",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -7429,8 +7455,8 @@
       "id": "51394c033223ce8d5b35",
       "name": "Jin",
       "section": "Treasure Hunters",
-      "sectionRank": 191,
-      "sectionIndex": 7,
+      "sectionRank": 190,
+      "sectionIndex": 16,
       "finalPrice": 800,
       "regularPrice": 800,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -7456,8 +7482,8 @@
       "id": "9c071db4bed9dedeaf55",
       "name": "Kids",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -7483,8 +7509,8 @@
       "id": "1881cd4a16b62c59efe8",
       "name": "Lord Pretty Flacko Jodye 2 (LPFJ2)",
       "section": "A$AP Rocky",
-      "sectionRank": 197,
-      "sectionIndex": 11,
+      "sectionRank": 195,
+      "sectionIndex": 31,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-06T00:00:00.000Z",
@@ -7510,8 +7536,8 @@
       "id": "8be83506b7879f43585d",
       "name": "Saff",
       "section": "Treasure Hunters",
-      "sectionRank": 191,
-      "sectionIndex": 7,
+      "sectionRank": 190,
+      "sectionIndex": 16,
       "finalPrice": 800,
       "regularPrice": 800,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -7537,8 +7563,8 @@
       "id": "3ebae59cb6bc336cc07d",
       "name": "Whine Up",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -7564,8 +7590,8 @@
       "id": "0d3287c5d7a2751e513f",
       "name": "Sucker",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -7591,8 +7617,8 @@
       "id": "6e7abfe0307e95a02c16",
       "name": "Cuddlepool + 1 included item",
       "section": "Deadpool Mashups",
-      "sectionRank": 188,
-      "sectionIndex": 15,
+      "sectionRank": 187,
+      "sectionIndex": 25,
       "finalPrice": 1500,
       "regularPrice": 1500,
       "inDate": "2026-11-08T00:00:00.000Z",
@@ -7622,11 +7648,38 @@
       ]
     },
     {
+      "id": "2575bff6e0ecdc2d4c68",
+      "name": "Dark Dino Bones",
+      "section": "Peak Style",
+      "sectionRank": 185,
+      "sectionIndex": 6,
+      "finalPrice": 800,
+      "regularPrice": 800,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-16T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_295_darkdino1h/icon.png",
+      "isBundle": false,
+      "types": [
+        "Pickaxe"
+      ],
+      "rarities": [
+        "DARK SERIES"
+      ],
+      "items": [
+        {
+          "name": "Dark Dino Bones",
+          "type": "Pickaxe",
+          "rarity": "DARK SERIES",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "aed28d36c326e0ca0593",
       "name": "Unholy",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -7649,45 +7702,11 @@
       ]
     },
     {
-      "id": "c7592e927fdcd0e1974a",
-      "name": "Adanna of the Deep + 1 included item",
-      "section": "Peak Style",
-      "sectionRank": 184,
-      "sectionIndex": 34,
-      "finalPrice": 1200,
-      "regularPrice": 1200,
-      "inDate": "2026-11-08T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/1f3fb811b344ad67/renderimage_0.png",
-      "isBundle": true,
-      "types": [
-        "Outfit",
-        "Back Bling"
-      ],
-      "rarities": [
-        "Rare"
-      ],
-      "items": [
-        {
-          "name": "Adanna of the Deep",
-          "type": "Outfit",
-          "rarity": "Rare",
-          "artist": null
-        },
-        {
-          "name": "The Eye of Orkanoth",
-          "type": "Back Bling",
-          "rarity": "Rare",
-          "artist": null
-        }
-      ]
-    },
-    {
       "id": "fbc71f1ef0893d11130d",
       "name": "I Wanna Get Better",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -7713,8 +7732,8 @@
       "id": "e26b83ca42ce998d25dc",
       "name": "Class President Nemia + 1 included item",
       "section": "Treasure Hunters",
-      "sectionRank": 191,
-      "sectionIndex": 7,
+      "sectionRank": 190,
+      "sectionIndex": 16,
       "finalPrice": 1200,
       "regularPrice": 1200,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -7748,8 +7767,8 @@
       "id": "6e1a34a2243d4e3c2846",
       "name": "Lock, Shock and Barrel's Tub",
       "section": "Gothic Lookbook",
-      "sectionRank": 185,
-      "sectionIndex": 16,
+      "sectionRank": 186,
+      "sectionIndex": 3,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -7775,8 +7794,8 @@
       "id": "9e8ffdef8d46c5fb2981",
       "name": "Deadpool Mashups",
       "section": "Deadpool Mashups",
-      "sectionRank": 188,
-      "sectionIndex": 15,
+      "sectionRank": 187,
+      "sectionIndex": 25,
       "finalPrice": 2000,
       "regularPrice": 3000,
       "inDate": "2026-11-08T00:00:00.000Z",
@@ -7821,8 +7840,8 @@
       "id": "2376411c569563d83c78",
       "name": "Fireball",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -7848,8 +7867,8 @@
       "id": "67770bf1779806d37db8",
       "name": "Helicopter Flacko + 2 included items",
       "section": "A$AP Rocky",
-      "sectionRank": 197,
-      "sectionIndex": 11,
+      "sectionRank": 195,
+      "sectionIndex": 31,
       "finalPrice": 2000,
       "regularPrice": 2000,
       "inDate": "2026-11-06T00:00:00.000Z",
@@ -7891,7 +7910,7 @@
       "name": "Town Signpost",
       "section": "Other offers",
       "sectionRank": -1,
-      "sectionIndex": 252,
+      "sectionIndex": 254,
       "finalPrice": 300,
       "regularPrice": 300,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -7914,11 +7933,65 @@
       ]
     },
     {
+      "id": "332dbcbef259ead0be28",
+      "name": "Dark Hatchling",
+      "section": "Other offers",
+      "sectionRank": -1,
+      "sectionIndex": 255,
+      "finalPrice": 300,
+      "regularPrice": 300,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-16T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/bid_383_darkdinofemale/icon.png",
+      "isBundle": false,
+      "types": [
+        "Back Bling"
+      ],
+      "rarities": [
+        "DARK SERIES"
+      ],
+      "items": [
+        {
+          "name": "Dark Hatchling",
+          "type": "Back Bling",
+          "rarity": "DARK SERIES",
+          "artist": null
+        }
+      ]
+    },
+    {
+      "id": "e2468a934edaff6b5a73",
+      "name": "Dusty Daredevil",
+      "section": "No Sweat",
+      "sectionRank": 189,
+      "sectionIndex": 15,
+      "finalPrice": 1200,
+      "regularPrice": 1200,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-16T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/cid_a_442_athena_commando_f_pennantseasone_b/icon.png",
+      "isBundle": false,
+      "types": [
+        "Outfit"
+      ],
+      "rarities": [
+        "Rare"
+      ],
+      "items": [
+        {
+          "name": "Dusty Daredevil",
+          "type": "Outfit",
+          "rarity": "Rare",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "2ee7c6d7e8a0d6fc6fd5",
       "name": "Ballin'",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -7941,38 +8014,11 @@
       ]
     },
     {
-      "id": "38dc329d71ea4ea3fab1",
-      "name": "Duck Dodgers' Rocket",
-      "section": "Space Jam",
-      "sectionRank": 183,
-      "sectionIndex": 20,
-      "finalPrice": 300,
-      "regularPrice": 300,
-      "inDate": "2026-11-06T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/backpack_notchgnarl/icon.png",
-      "isBundle": false,
-      "types": [
-        "Back Bling"
-      ],
-      "rarities": [
-        "Rare"
-      ],
-      "items": [
-        {
-          "name": "Duck Dodgers' Rocket",
-          "type": "Back Bling",
-          "rarity": "Rare",
-          "artist": null
-        }
-      ]
-    },
-    {
       "id": "260bf13b7d0e58052b8b",
       "name": "Peppermint Parasol",
       "section": "Gothic Lookbook",
-      "sectionRank": 185,
-      "sectionIndex": 16,
+      "sectionRank": 186,
+      "sectionIndex": 3,
       "finalPrice": 800,
       "regularPrice": 800,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -7998,8 +8044,8 @@
       "id": "74915c460f6ad3c84e83",
       "name": "Pumpkin King",
       "section": "Gothic Lookbook",
-      "sectionRank": 185,
-      "sectionIndex": 16,
+      "sectionRank": 186,
+      "sectionIndex": 3,
       "finalPrice": 2000,
       "regularPrice": 2000,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -8055,8 +8101,8 @@
       "id": "b86e78ee76aae4d85c3d",
       "name": "Beanie",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -8083,7 +8129,7 @@
       "name": "Sanji's Utensils + 1 included item",
       "section": "One Piece",
       "sectionRank": 198,
-      "sectionIndex": 13,
+      "sectionIndex": 10,
       "finalPrice": 800,
       "regularPrice": 800,
       "inDate": "2026-11-08T00:00:00.000Z",
@@ -8116,8 +8162,8 @@
       "id": "80b0f7d25ee00102262b",
       "name": "Somebody That I Used To Know",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -8144,7 +8190,7 @@
       "name": "Cuddlepool's Bow",
       "section": "Other offers",
       "sectionRank": -1,
-      "sectionIndex": 260,
+      "sectionIndex": 263,
       "finalPrice": 300,
       "regularPrice": 300,
       "inDate": "2026-11-08T00:00:00.000Z",
@@ -8170,8 +8216,8 @@
       "id": "65b2e3ab12421f684c4d",
       "name": "All I Do Is Win",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -8197,8 +8243,8 @@
       "id": "e821bb4b9320212ddb40",
       "name": "Celebrate Happy",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -8224,8 +8270,8 @@
       "id": "444ad896cdce2b447bf3",
       "name": "Song 2",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -8251,8 +8297,8 @@
       "id": "3ec840b027545ae30021",
       "name": "Don't You Worry Child",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-10-01T00:00:00.000Z",
@@ -8279,7 +8325,7 @@
       "name": "Going Merry",
       "section": "One Piece",
       "sectionRank": 198,
-      "sectionIndex": 13,
+      "sectionIndex": 10,
       "finalPrice": 1200,
       "regularPrice": 1200,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -8305,8 +8351,8 @@
       "id": "3dd1d94419fa6a76012d",
       "name": "Trooper Samurai",
       "section": "Star Wars",
-      "sectionRank": 192,
-      "sectionIndex": 19,
+      "sectionRank": 188,
+      "sectionIndex": 30,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -8332,8 +8378,8 @@
       "id": "67bf613c3d53c8a9e3d8",
       "name": "Dragacorn",
       "section": "Deadpool Mashups",
-      "sectionRank": 188,
-      "sectionIndex": 15,
+      "sectionRank": 187,
+      "sectionIndex": 25,
       "finalPrice": 1500,
       "regularPrice": 1500,
       "inDate": "2026-11-08T00:00:00.000Z",
@@ -8359,8 +8405,8 @@
       "id": "6dd8f786bf6021c2e609",
       "name": "Hi-Fi Jets",
       "section": "A$AP Rocky",
-      "sectionRank": 197,
-      "sectionIndex": 11,
+      "sectionRank": 195,
+      "sectionIndex": 31,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-06T00:00:00.000Z",
@@ -8386,8 +8432,8 @@
       "id": "4b2acf4679d8ca03f9a0",
       "name": "The Brave",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -8413,8 +8459,8 @@
       "id": "79e8526ff5f4799bb32a",
       "name": "Basic Being Basic",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -8437,11 +8483,45 @@
       ]
     },
     {
+      "id": "4a093925420a3b5a49bf",
+      "name": "Scrapknight Jules + 1 included item",
+      "section": "No Sweat",
+      "sectionRank": 189,
+      "sectionIndex": 15,
+      "finalPrice": 1200,
+      "regularPrice": 1200,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-16T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/bbcad8de963d0496/renderimage_0.png",
+      "isBundle": true,
+      "types": [
+        "Outfit",
+        "Back Bling"
+      ],
+      "rarities": [
+        "Rare"
+      ],
+      "items": [
+        {
+          "name": "Scrapknight Jules",
+          "type": "Outfit",
+          "rarity": "Rare",
+          "artist": null
+        },
+        {
+          "name": "Ohm's Mantle",
+          "type": "Back Bling",
+          "rarity": "Rare",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "2df03e5bd1fdf70434ec",
       "name": "Ben 10 Bundle",
       "section": "Ben 10",
-      "sectionRank": 186,
-      "sectionIndex": 33,
+      "sectionRank": 184,
+      "sectionIndex": 23,
       "finalPrice": 4000,
       "regularPrice": 6700,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -8512,11 +8592,38 @@
       ]
     },
     {
+      "id": "7cbc1494961b16f66e64",
+      "name": "BOO!",
+      "section": "Other offers",
+      "sectionRank": -1,
+      "sectionIndex": 276,
+      "finalPrice": 300,
+      "regularPrice": 300,
+      "inDate": "2026-11-07T00:00:00.000Z",
+      "outDate": "2026-11-10T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/eid_burntbagel/icon.png",
+      "isBundle": false,
+      "types": [
+        "Emote"
+      ],
+      "rarities": [
+        "Uncommon"
+      ],
+      "items": [
+        {
+          "name": "BOO!",
+          "type": "Emote",
+          "rarity": "Uncommon",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "df630b4bc4a370c1e4a5",
       "name": "One Piece Bundle",
       "section": "One Piece",
       "sectionRank": 198,
-      "sectionIndex": 13,
+      "sectionIndex": 10,
       "finalPrice": 4000,
       "regularPrice": 8200,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -8637,81 +8744,76 @@
       ]
     },
     {
-      "id": "7cbc1494961b16f66e64",
-      "name": "BOO!",
-      "section": "Other offers",
-      "sectionRank": -1,
-      "sectionIndex": 273,
-      "finalPrice": 300,
-      "regularPrice": 300,
-      "inDate": "2026-11-07T00:00:00.000Z",
-      "outDate": "2026-11-10T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/eid_burntbagel/icon.png",
-      "isBundle": false,
-      "types": [
-        "Emote"
-      ],
-      "rarities": [
-        "Uncommon"
-      ],
-      "items": [
-        {
-          "name": "BOO!",
-          "type": "Emote",
-          "rarity": "Uncommon",
-          "artist": null
-        }
-      ]
-    },
-    {
-      "id": "096f78dacdb40285d072",
-      "name": "Quacking Up",
-      "section": "Space Jam",
-      "sectionRank": 183,
-      "sectionIndex": 20,
-      "finalPrice": 500,
-      "regularPrice": 500,
-      "inDate": "2026-11-06T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/eid_notchgnarl/icon.png",
-      "isBundle": false,
-      "types": [
-        "Emote"
-      ],
-      "rarities": [
-        "Uncommon"
-      ],
-      "items": [
-        {
-          "name": "Quacking Up",
-          "type": "Emote",
-          "rarity": "Uncommon",
-          "artist": null
-        }
-      ]
-    },
-    {
-      "id": "2cf51ad5bb8556be06a7",
-      "name": "Swamp Stalker",
-      "section": "No Sweat",
+      "id": "35173a3772bf11d1ee6e",
+      "name": "Jacob's Pierogi Locker Bundle",
+      "section": "Jacob's Pierogi Locker",
       "sectionRank": 182,
-      "sectionIndex": 10,
-      "finalPrice": 800,
-      "regularPrice": 800,
-      "inDate": "2026-11-03T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/cid_526_athena_commando_f_desertopsswamp/icon.png",
-      "isBundle": false,
+      "sectionIndex": 14,
+      "finalPrice": 2000,
+      "regularPrice": 2700,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-14T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/de0dd1ac250ff99f/renderimage_0.png",
+      "isBundle": true,
       "types": [
-        "Outfit"
+        "Outfit",
+        "Back Bling",
+        "Pickaxe",
+        "Emote",
+        "Wrap",
+        "Spray",
+        "Emoticon"
       ],
       "rarities": [
+        "Rare",
         "Uncommon"
       ],
       "items": [
         {
-          "name": "Swamp Stalker",
+          "name": "Budge",
           "type": "Outfit",
+          "rarity": "Rare",
+          "artist": null
+        },
+        {
+          "name": "Squawk Sack",
+          "type": "Back Bling",
+          "rarity": "Rare",
+          "artist": null
+        },
+        {
+          "name": "Sun Sprout",
+          "type": "Back Bling",
+          "rarity": "Uncommon",
+          "artist": null
+        },
+        {
+          "name": "Driver",
+          "type": "Pickaxe",
+          "rarity": "Uncommon",
+          "artist": null
+        },
+        {
+          "name": "Billy Bounce",
+          "type": "Emote",
+          "rarity": "Rare",
+          "artist": null
+        },
+        {
+          "name": "Scanline",
+          "type": "Wrap",
+          "rarity": "Uncommon",
+          "artist": null
+        },
+        {
+          "name": "Jacob's Pierogi",
+          "type": "Spray",
+          "rarity": "Uncommon",
+          "artist": null
+        },
+        {
+          "name": "Jacob's Suitcase",
+          "type": "Emoticon",
           "rarity": "Uncommon",
           "artist": null
         }
@@ -8722,7 +8824,7 @@
       "name": "Worm's Wort",
       "section": "Other offers",
       "sectionRank": -1,
-      "sectionIndex": 276,
+      "sectionIndex": 279,
       "finalPrice": 400,
       "regularPrice": 400,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -8745,11 +8847,38 @@
       ]
     },
     {
+      "id": "66a027f7428183e67b0b",
+      "name": "Containment Unit",
+      "section": "Other offers",
+      "sectionRank": -1,
+      "sectionIndex": 280,
+      "finalPrice": 300,
+      "regularPrice": 300,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-11T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/bid_384_noshhunter/icon.png",
+      "isBundle": false,
+      "types": [
+        "Back Bling"
+      ],
+      "rarities": [
+        "Rare"
+      ],
+      "items": [
+        {
+          "name": "Containment Unit",
+          "type": "Back Bling",
+          "rarity": "Rare",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "1bdedb2bc66984416f20",
       "name": "Illegal",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-06T00:00:00.000Z",
@@ -8775,8 +8904,8 @@
       "id": "b9bab9c18bd3add0c5b4",
       "name": "Dynamite",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -8803,7 +8932,7 @@
       "name": "Shadow Jet Set",
       "section": "Other offers",
       "sectionRank": -1,
-      "sectionIndex": 279,
+      "sectionIndex": 283,
       "finalPrice": 300,
       "regularPrice": 300,
       "inDate": "2026-11-04T00:00:00.000Z",
@@ -8829,8 +8958,8 @@
       "id": "0da26ac082675090fb71",
       "name": "BAILE INoLVIDABLE",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-06T00:00:00.000Z",
@@ -8856,8 +8985,8 @@
       "id": "ec266df95e7efc3449b4",
       "name": "Bugatti Centodieci Bundle",
       "section": "Bugatti Centodieci",
-      "sectionRank": 180,
-      "sectionIndex": 14,
+      "sectionRank": 181,
+      "sectionIndex": 2,
       "finalPrice": 2800,
       "regularPrice": 2800,
       "inDate": "2026-11-08T00:00:00.000Z",
@@ -8929,7 +9058,7 @@
       "name": "Watchful Wabbit",
       "section": "Other offers",
       "sectionRank": -1,
-      "sectionIndex": 282,
+      "sectionIndex": 286,
       "finalPrice": 300,
       "regularPrice": 300,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -8952,38 +9081,11 @@
       ]
     },
     {
-      "id": "f3d997389968c45ee1f3",
-      "name": "Skully Satchel",
-      "section": "Other offers",
-      "sectionRank": -1,
-      "sectionIndex": 283,
-      "finalPrice": 200,
-      "regularPrice": 200,
-      "inDate": "2026-11-03T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/bid_211_skullbrite/icon.png",
-      "isBundle": false,
-      "types": [
-        "Back Bling"
-      ],
-      "rarities": [
-        "Rare"
-      ],
-      "items": [
-        {
-          "name": "Skully Satchel",
-          "type": "Back Bling",
-          "rarity": "Rare",
-          "artist": null
-        }
-      ]
-    },
-    {
       "id": "2a5fd947926c8cd44048",
       "name": "Can You Feel My Heart",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-06T00:00:00.000Z",
@@ -9009,8 +9111,8 @@
       "id": "0e96981dba0c3ef0ebbf",
       "name": "Dracula",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-06T00:00:00.000Z",
@@ -9036,8 +9138,8 @@
       "id": "3cbadbadca6c1056a422",
       "name": "Bust A Move",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -9063,8 +9165,8 @@
       "id": "128aec26e512bababc3c",
       "name": "Red Spider Lily",
       "section": "Honkai Star Rail",
-      "sectionRank": 193,
-      "sectionIndex": 28,
+      "sectionRank": 191,
+      "sectionIndex": 4,
       "finalPrice": 300,
       "regularPrice": 300,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -9091,7 +9193,7 @@
       "name": "SD Whitewall",
       "section": "Other offers",
       "sectionRank": -1,
-      "sectionIndex": 288,
+      "sectionIndex": 291,
       "finalPrice": 400,
       "regularPrice": 400,
       "inDate": "2026-11-04T00:00:00.000Z",
@@ -9114,11 +9216,38 @@
       ]
     },
     {
+      "id": "9715a57fc075adef969e",
+      "name": "Doughberman",
+      "section": "Peak Style",
+      "sectionRank": 185,
+      "sectionIndex": 6,
+      "finalPrice": 800,
+      "regularPrice": 800,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-10T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/character_batterboi/icon.png",
+      "isBundle": false,
+      "types": [
+        "Outfit"
+      ],
+      "rarities": [
+        "Epic"
+      ],
+      "items": [
+        {
+          "name": "Doughberman",
+          "type": "Outfit",
+          "rarity": "Epic",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "cef27c71ed9192b8686c",
       "name": "Zoro's Training Gear",
       "section": "One Piece",
       "sectionRank": 198,
-      "sectionIndex": 13,
+      "sectionIndex": 10,
       "finalPrice": 300,
       "regularPrice": 300,
       "inDate": "2026-11-08T00:00:00.000Z",
@@ -9141,11 +9270,45 @@
       ]
     },
     {
+      "id": "79af9c8c0d1599eb7ff2",
+      "name": "He-Man's Weaponry",
+      "section": "Masters of the Universe",
+      "sectionRank": 192,
+      "sectionIndex": 29,
+      "finalPrice": 800,
+      "regularPrice": 800,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-13T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/843414d0b4421800/renderimage_0.png",
+      "isBundle": true,
+      "types": [
+        "Pickaxe",
+        "Back Bling"
+      ],
+      "rarities": [
+        "Rare"
+      ],
+      "items": [
+        {
+          "name": "He-Man's Weaponry",
+          "type": "Pickaxe",
+          "rarity": "Rare",
+          "artist": null
+        },
+        {
+          "name": "Power Scabbard",
+          "type": "Back Bling",
+          "rarity": "Rare",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "a89c8f21dc352141492e",
       "name": "Fetch",
       "section": "Peak Style",
-      "sectionRank": 184,
-      "sectionIndex": 34,
+      "sectionRank": 185,
+      "sectionIndex": 6,
       "finalPrice": 1200,
       "regularPrice": 1200,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -9168,38 +9331,11 @@
       ]
     },
     {
-      "id": "ca140cc167f4560a7e41",
-      "name": "Kit",
-      "section": "Peak Style",
-      "sectionRank": 184,
-      "sectionIndex": 34,
-      "finalPrice": 1200,
-      "regularPrice": 1200,
-      "inDate": "2026-11-03T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/companion_buffcut/icon.png",
-      "isBundle": false,
-      "types": [
-        "Sidekick"
-      ],
-      "rarities": [
-        "Uncommon"
-      ],
-      "items": [
-        {
-          "name": "Kit",
-          "type": "Sidekick",
-          "rarity": "Uncommon",
-          "artist": null
-        }
-      ]
-    },
-    {
       "id": "981ac6482d4946533dca",
       "name": "Gwen's Grimoire",
       "section": "Ben 10",
-      "sectionRank": 186,
-      "sectionIndex": 33,
+      "sectionRank": 184,
+      "sectionIndex": 23,
       "finalPrice": 400,
       "regularPrice": 400,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -9225,8 +9361,8 @@
       "id": "e1aed1ff6660fecbd2ee",
       "name": "Creatures In Heaven",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -9252,8 +9388,8 @@
       "id": "934da0ef8b717a364177",
       "name": "Jack Skellington + 1 included item",
       "section": "Gothic Lookbook",
-      "sectionRank": 185,
-      "sectionIndex": 16,
+      "sectionRank": 186,
+      "sectionIndex": 3,
       "finalPrice": 1500,
       "regularPrice": 1500,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -9283,11 +9419,45 @@
       ]
     },
     {
+      "id": "a369178ef4c9cd3107db",
+      "name": "Scourge + 1 included item",
+      "section": "Peak Style",
+      "sectionRank": 185,
+      "sectionIndex": 6,
+      "finalPrice": 1500,
+      "regularPrice": 1500,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-11T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/bf31c2e3aa32dde5/renderimage_1.png",
+      "isBundle": true,
+      "types": [
+        "Outfit",
+        "Back Bling"
+      ],
+      "rarities": [
+        "Epic"
+      ],
+      "items": [
+        {
+          "name": "Scourge",
+          "type": "Outfit",
+          "rarity": "Epic",
+          "artist": null
+        },
+        {
+          "name": "Arcanum",
+          "type": "Back Bling",
+          "rarity": "Epic",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "9fa68a66e378480e9a49",
       "name": "Yuki + 1 included item",
       "section": "Other offers",
       "sectionRank": -1,
-      "sectionIndex": 295,
+      "sectionIndex": 300,
       "finalPrice": 1200,
       "regularPrice": 1200,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -9320,8 +9490,8 @@
       "id": "9f1984256c463b7344d9",
       "name": "Darth Vader Samurai",
       "section": "Star Wars",
-      "sectionRank": 192,
-      "sectionIndex": 19,
+      "sectionRank": 188,
+      "sectionIndex": 30,
       "finalPrice": 1800,
       "regularPrice": 1800,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -9361,8 +9531,8 @@
       "id": "f6ad63ff18b5a5ec5816",
       "name": "Meaty Mallets",
       "section": "Deadpool Mashups",
-      "sectionRank": 188,
-      "sectionIndex": 15,
+      "sectionRank": 187,
+      "sectionIndex": 25,
       "finalPrice": 800,
       "regularPrice": 800,
       "inDate": "2026-11-08T00:00:00.000Z",
@@ -9388,8 +9558,8 @@
       "id": "fabf5628b8e06b2be88c",
       "name": "Ruby Soho",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -9412,73 +9582,11 @@
       ]
     },
     {
-      "id": "39ffce8e3d61fb432604",
-      "name": "Wrap Major",
-      "section": "Peak Style",
-      "sectionRank": 184,
-      "sectionIndex": 34,
-      "finalPrice": 1500,
-      "regularPrice": 1500,
-      "inDate": "2026-11-09T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/42cef2f5321867b3/renderimage_0.png",
-      "isBundle": true,
-      "types": [
-        "Outfit",
-        "Wrap"
-      ],
-      "rarities": [
-        "Epic",
-        "Rare"
-      ],
-      "items": [
-        {
-          "name": "Wrap Major",
-          "type": "Outfit",
-          "rarity": "Epic",
-          "artist": null
-        },
-        {
-          "name": "Pixellator",
-          "type": "Wrap",
-          "rarity": "Rare",
-          "artist": null
-        }
-      ]
-    },
-    {
-      "id": "0b770485e9a7c57e5182",
-      "name": "Shadow Combo Cleavers",
-      "section": "Signal Boost",
-      "sectionRank": 187,
-      "sectionIndex": 24,
-      "finalPrice": 800,
-      "regularPrice": 800,
-      "inDate": "2026-11-04T00:00:00.000Z",
-      "outDate": "2026-11-10T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_444_multibotstealth1h/icon.png",
-      "isBundle": false,
-      "types": [
-        "Pickaxe"
-      ],
-      "rarities": [
-        "Shadow Series"
-      ],
-      "items": [
-        {
-          "name": "Shadow Combo Cleavers",
-          "type": "Pickaxe",
-          "rarity": "Shadow Series",
-          "artist": null
-        }
-      ]
-    },
-    {
       "id": "b7263702e2aeb39cfd3f",
       "name": "Wild Gunner",
       "section": "Signal Boost",
-      "sectionRank": 187,
-      "sectionIndex": 24,
+      "sectionRank": 196,
+      "sectionIndex": 28,
       "finalPrice": 800,
       "regularPrice": 800,
       "inDate": "2026-11-04T00:00:00.000Z",
@@ -9501,36 +9609,28 @@
       ]
     },
     {
-      "id": "cd31c33239fb89e22997",
-      "name": "Lola Bunny",
-      "section": "Space Jam",
-      "sectionRank": 183,
-      "sectionIndex": 20,
-      "finalPrice": 1500,
-      "regularPrice": 1500,
-      "inDate": "2026-11-06T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/02772608e6244852/renderimage_0.png",
-      "isBundle": true,
+      "id": "0b770485e9a7c57e5182",
+      "name": "Shadow Combo Cleavers",
+      "section": "Signal Boost",
+      "sectionRank": 196,
+      "sectionIndex": 28,
+      "finalPrice": 800,
+      "regularPrice": 800,
+      "inDate": "2026-11-04T00:00:00.000Z",
+      "outDate": "2026-11-10T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_444_multibotstealth1h/icon.png",
+      "isBundle": false,
       "types": [
-        "Outfit",
-        "Back Bling"
+        "Pickaxe"
       ],
       "rarities": [
-        "Epic",
-        "Rare"
+        "Shadow Series"
       ],
       "items": [
         {
-          "name": "Lola Bunny",
-          "type": "Outfit",
-          "rarity": "Epic",
-          "artist": null
-        },
-        {
-          "name": "Bunny Hops",
-          "type": "Back Bling",
-          "rarity": "Rare",
+          "name": "Shadow Combo Cleavers",
+          "type": "Pickaxe",
+          "rarity": "Shadow Series",
           "artist": null
         }
       ]
@@ -9539,8 +9639,8 @@
       "id": "df436a72b2cbefdbfc0a",
       "name": "Syncopator",
       "section": "Peak Style",
-      "sectionRank": 184,
-      "sectionIndex": 34,
+      "sectionRank": 185,
+      "sectionIndex": 6,
       "finalPrice": 1200,
       "regularPrice": 1200,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -9565,9 +9665,9 @@
     {
       "id": "7b8df4dd10df163ceff5",
       "name": "Ain't It Fun",
-      "section": "Victory Party",
-      "sectionRank": 195,
-      "sectionIndex": 25,
+      "section": "Groove Moves",
+      "sectionRank": 193,
+      "sectionIndex": 7,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -9593,8 +9693,8 @@
       "id": "56f9022a02b7c32e2cd4",
       "name": "FLAMMABLE",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -9620,8 +9720,8 @@
       "id": "6e3a0ab1f53772990e78",
       "name": "Faint",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -9647,8 +9747,8 @@
       "id": "c846c6bc95b24772b01d",
       "name": "Africa",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -9674,8 +9774,8 @@
       "id": "d0831611cd7a3fc3987b",
       "name": "Hot In Herre",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -9701,8 +9801,8 @@
       "id": "a0594f0d2e80fdbd728c",
       "name": "Side To Side",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -9729,7 +9829,7 @@
       "name": "Straw Hat Guitar + 2 included items",
       "section": "One Piece",
       "sectionRank": 198,
-      "sectionIndex": 13,
+      "sectionIndex": 10,
       "finalPrice": 800,
       "regularPrice": 800,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -9767,11 +9867,38 @@
       ]
     },
     {
+      "id": "1616b8d79ce05075585d",
+      "name": "Squadron Leader",
+      "section": "Signal Boost",
+      "sectionRank": 196,
+      "sectionIndex": 28,
+      "finalPrice": 1200,
+      "regularPrice": 1200,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-16T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/character_raggedrebel/icon.png",
+      "isBundle": false,
+      "types": [
+        "Outfit"
+      ],
+      "rarities": [
+        "Epic"
+      ],
+      "items": [
+        {
+          "name": "Squadron Leader",
+          "type": "Outfit",
+          "rarity": "Epic",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "7ce41a0c088f030e7528",
       "name": "OIIA OIIA (Spinning Cat)",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-06T00:00:00.000Z",
@@ -9797,8 +9924,8 @@
       "id": "604e4f6010a6955cecad",
       "name": "September",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -9821,11 +9948,38 @@
       ]
     },
     {
+      "id": "02631af629cda8dc36be",
+      "name": "Sword of Protection",
+      "section": "Masters of the Universe",
+      "sectionRank": 192,
+      "sectionIndex": 29,
+      "finalPrice": 500,
+      "regularPrice": 500,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-13T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_trickcrate/icon.png",
+      "isBundle": false,
+      "types": [
+        "Pickaxe"
+      ],
+      "rarities": [
+        "Rare"
+      ],
+      "items": [
+        {
+          "name": "Sword of Protection",
+          "type": "Pickaxe",
+          "rarity": "Rare",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "9da49edfd10aa12dca35",
       "name": "With Or Without You",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -9851,8 +10005,8 @@
       "id": "d53f754adbd0515dbaf6",
       "name": "Whenever, Wherever",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -9875,11 +10029,38 @@
       ]
     },
     {
+      "id": "8b04a52c2e2de68a06c4",
+      "name": "Iridia Vayne",
+      "section": "No Sweat",
+      "sectionRank": 189,
+      "sectionIndex": 15,
+      "finalPrice": 800,
+      "regularPrice": 800,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-16T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/character_azureblade/icon.png",
+      "isBundle": false,
+      "types": [
+        "Outfit"
+      ],
+      "rarities": [
+        "Epic"
+      ],
+      "items": [
+        {
+          "name": "Iridia Vayne",
+          "type": "Outfit",
+          "rarity": "Epic",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "37bd8d731888b2d6e70f",
       "name": "get him back!",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -9905,8 +10086,8 @@
       "id": "1e9a024c3e27fbff5ea9",
       "name": "RIOT (Rowdy Pipe'n)",
       "section": "A$AP Rocky",
-      "sectionRank": 197,
-      "sectionIndex": 11,
+      "sectionRank": 195,
+      "sectionIndex": 31,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-06T00:00:00.000Z",
@@ -9929,11 +10110,38 @@
       ]
     },
     {
+      "id": "6f5d1064c4258f814e2f",
+      "name": "Scanline",
+      "section": "Jacob's Pierogi Locker",
+      "sectionRank": 182,
+      "sectionIndex": 14,
+      "finalPrice": 300,
+      "regularPrice": 300,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-14T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/wrap_097_neonlines/icon.png",
+      "isBundle": false,
+      "types": [
+        "Wrap"
+      ],
+      "rarities": [
+        "Uncommon"
+      ],
+      "items": [
+        {
+          "name": "Scanline",
+          "type": "Wrap",
+          "rarity": "Uncommon",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "ee635b36c97a4f67683d",
       "name": "Edward Axe-Hands + 2 included items",
       "section": "Gothic Lookbook",
-      "sectionRank": 185,
-      "sectionIndex": 16,
+      "sectionRank": 186,
+      "sectionIndex": 3,
       "finalPrice": 1000,
       "regularPrice": 1000,
       "inDate": "2026-11-07T00:00:00.000Z",
@@ -9974,8 +10182,8 @@
       "id": "a199744b185deb366055",
       "name": "Gilded Skully + 1 included item",
       "section": "Treasure Hunters",
-      "sectionRank": 191,
-      "sectionIndex": 7,
+      "sectionRank": 190,
+      "sectionIndex": 16,
       "finalPrice": 1200,
       "regularPrice": 1200,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -10006,11 +10214,38 @@
       ]
     },
     {
+      "id": "818a4f22ee4a9f783256",
+      "name": "Winter's Wings",
+      "section": "Peak Style",
+      "sectionRank": 185,
+      "sectionIndex": 6,
+      "finalPrice": 300,
+      "regularPrice": 300,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-10T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/backpack_photographerholiday/icon.png",
+      "isBundle": false,
+      "types": [
+        "Back Bling"
+      ],
+      "rarities": [
+        "Rare"
+      ],
+      "items": [
+        {
+          "name": "Winter's Wings",
+          "type": "Back Bling",
+          "rarity": "Rare",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "13dc469536af811b0a8c",
       "name": "Poison",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -10036,8 +10271,8 @@
       "id": "2b82fdfdf36b7f63ec51",
       "name": "Shard Sword",
       "section": "Honkai Star Rail",
-      "sectionRank": 193,
-      "sectionIndex": 28,
+      "sectionRank": 191,
+      "sectionIndex": 4,
       "finalPrice": 800,
       "regularPrice": 800,
       "inDate": "2026-11-09T00:00:00.000Z",
@@ -10060,11 +10295,124 @@
       ]
     },
     {
+      "id": "6f8b52c306cc5e470f07",
+      "name": "Masters of the Universe Bundle",
+      "section": "Masters of the Universe",
+      "sectionRank": 192,
+      "sectionIndex": 29,
+      "finalPrice": 3600,
+      "regularPrice": 6700,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-13T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/27c1012276fffe39/renderimage_0.png",
+      "isBundle": true,
+      "types": [
+        "Outfit",
+        "Pickaxe",
+        "Back Bling",
+        "Emote",
+        "Drums"
+      ],
+      "rarities": [
+        "Epic",
+        "Rare",
+        "Legendary",
+        "Uncommon",
+        "Common"
+      ],
+      "items": [
+        {
+          "name": "He-Man",
+          "type": "Outfit",
+          "rarity": "Epic",
+          "artist": null
+        },
+        {
+          "name": "He-Man's Weaponry",
+          "type": "Pickaxe",
+          "rarity": "Rare",
+          "artist": null
+        },
+        {
+          "name": "Power Scabbard",
+          "type": "Back Bling",
+          "rarity": "Rare",
+          "artist": null
+        },
+        {
+          "name": "Skeletor",
+          "type": "Outfit",
+          "rarity": "Epic",
+          "artist": null
+        },
+        {
+          "name": "Skeletor's Weaponry",
+          "type": "Pickaxe",
+          "rarity": "Rare",
+          "artist": null
+        },
+        {
+          "name": "Skeletor's Cape",
+          "type": "Back Bling",
+          "rarity": "Legendary",
+          "artist": null
+        },
+        {
+          "name": "She-Ra",
+          "type": "Outfit",
+          "rarity": "Epic",
+          "artist": null
+        },
+        {
+          "name": "Sword of Protection",
+          "type": "Pickaxe",
+          "rarity": "Rare",
+          "artist": null
+        },
+        {
+          "name": "She-Ra's Cape",
+          "type": "Back Bling",
+          "rarity": "Rare",
+          "artist": null
+        },
+        {
+          "name": "Laugh of Power",
+          "type": "Emote",
+          "rarity": "Uncommon",
+          "artist": null
+        },
+        {
+          "name": "Seat of Defeat",
+          "type": "Emote",
+          "rarity": "Uncommon",
+          "artist": null
+        },
+        {
+          "name": "Sticks of Eternia",
+          "type": "Pickaxe",
+          "rarity": "Rare",
+          "artist": null
+        },
+        {
+          "name": "Sticks of Eternia",
+          "type": "Back Bling",
+          "rarity": "Rare",
+          "artist": null
+        },
+        {
+          "name": "Grayskull Kit",
+          "type": "Drums",
+          "rarity": "Common",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "b4c5a4d1c70e98398467",
       "name": "Your Love (9pm)",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -10090,8 +10438,8 @@
       "id": "bfc0c6e04b1dedc17e8a",
       "name": "Komodo",
       "section": "Komodo",
-      "sectionRank": 176,
-      "sectionIndex": 8,
+      "sectionRank": 177,
+      "sectionIndex": 17,
       "finalPrice": 1500,
       "regularPrice": 1500,
       "inDate": "2026-11-04T00:00:00.000Z",
@@ -10144,11 +10492,80 @@
       ]
     },
     {
+      "id": "1192b493437de50a7565",
+      "name": "She-Ra",
+      "section": "Masters of the Universe",
+      "sectionRank": 192,
+      "sectionIndex": 29,
+      "finalPrice": 1600,
+      "regularPrice": 1600,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-13T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/7f054cddd8e264bc/renderimage_0.png",
+      "isBundle": true,
+      "types": [
+        "Outfit",
+        "Back Bling",
+        "Pickaxe"
+      ],
+      "rarities": [
+        "Epic",
+        "Rare"
+      ],
+      "items": [
+        {
+          "name": "She-Ra",
+          "type": "Outfit",
+          "rarity": "Epic",
+          "artist": null
+        },
+        {
+          "name": "She-Ra's Cape",
+          "type": "Back Bling",
+          "rarity": "Rare",
+          "artist": null
+        },
+        {
+          "name": "Sword of Protection",
+          "type": "Pickaxe",
+          "rarity": "Rare",
+          "artist": null
+        }
+      ]
+    },
+    {
+      "id": "e663d64337775f6d32d5",
+      "name": "Moon Punk Ione",
+      "section": "No Sweat",
+      "sectionRank": 189,
+      "sectionIndex": 15,
+      "finalPrice": 800,
+      "regularPrice": 800,
+      "inDate": "2026-11-10T00:00:00.000Z",
+      "outDate": "2026-11-16T23:59:59.999Z",
+      "image": "https://fortnite-api.com/images/cosmetics/br/character_meekcrow/icon.png",
+      "isBundle": false,
+      "types": [
+        "Outfit"
+      ],
+      "rarities": [
+        "Epic"
+      ],
+      "items": [
+        {
+          "name": "Moon Punk Ione",
+          "type": "Outfit",
+          "rarity": "Epic",
+          "artist": null
+        }
+      ]
+    },
+    {
       "id": "d7840b3501dc9b20f3d8",
       "name": "Hot Blooded",
       "section": "Jam Tracks",
-      "sectionRank": 181,
-      "sectionIndex": 4,
+      "sectionRank": 183,
+      "sectionIndex": 26,
       "finalPrice": 500,
       "regularPrice": 500,
       "inDate": "2026-11-01T00:00:00.000Z",
@@ -10171,45 +10588,11 @@
       ]
     },
     {
-      "id": "42c2f11bb39b44d8801d",
-      "name": "Sparkplug + 1 included item",
-      "section": "No Sweat",
-      "sectionRank": 182,
-      "sectionIndex": 10,
-      "finalPrice": 1200,
-      "regularPrice": 1200,
-      "inDate": "2026-11-03T00:00:00.000Z",
-      "outDate": "2026-11-09T23:59:59.999Z",
-      "image": "https://fortnite-api.com/images/cosmetics/br/newdisplayassets/cbcad97d0b2a5673/renderimage_0.png",
-      "isBundle": true,
-      "types": [
-        "Outfit",
-        "Back Bling"
-      ],
-      "rarities": [
-        "Rare"
-      ],
-      "items": [
-        {
-          "name": "Sparkplug",
-          "type": "Outfit",
-          "rarity": "Rare",
-          "artist": null
-        },
-        {
-          "name": "Scrappy",
-          "type": "Back Bling",
-          "rarity": "Rare",
-          "artist": null
-        }
-      ]
-    },
-    {
       "id": "1b87b6674102e706d573",
       "name": "Omnitrix Pick",
       "section": "Ben 10",
-      "sectionRank": 186,
-      "sectionIndex": 33,
+      "sectionRank": 184,
+      "sectionIndex": 23,
       "finalPrice": 800,
       "regularPrice": 800,
       "inDate": "2026-11-07T00:00:00.000Z",
