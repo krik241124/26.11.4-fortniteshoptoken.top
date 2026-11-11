@@ -45,5 +45,12 @@ export default function ItemShopPage() {
       <figure><a href="/images/item-shop-reading-guide.webp" aria-label="Open the shop offer checklist at full size"><img src="/images/item-shop-reading-guide.webp" width={1200} height={675} loading="lazy" decoding="async" alt="Shop offer checklist: check the snapshot date, compare the V-Bucks price and confirm the offer in your game." /></a><figcaption>An offer checklist. Illustration by Shop Token; it is not an in-game shop screenshot. Select the image to view it at full size.</figcaption></figure>
     </section>
     <section className="shop-faq"><p className="section-kicker">BEFORE YOU BUY</p><h2>Item Shop questions</h2><div className="faq-list">{questions.map(item => <details key={item.question}><summary>{item.question}</summary><p>{item.answer}</p></details>)}</div><p className="source-note">For access rules, read <a href="/how-to-activate-pirate-shop-access/">how to activate Pirate Shop Access</a> and <a href="/what-is-pirate-shop-token/">what the token includes</a>. To report an incorrect listing, <a href="/contact/">contact the editorial team</a>.</p></section>
+    <section className="related-guides article" aria-labelledby="shop-related-heading">
+      <p className="section-kicker">KEEP EXPLORING</p><h2 id="shop-related-heading">Your next field note</h2>
+      <div className="guide-list">
+        <a className="guide-link" href="/"><span>Return to the Pirate Shop Token guide</span><span aria-hidden="true">↗</span></a>
+        <a className="guide-link" href="/pirate-shop-token-drop-rate/"><span>Explore token probabilities with the odds calculator</span><span aria-hidden="true">↗</span></a>
+      </div>
+    </section>
   </main>;
 }

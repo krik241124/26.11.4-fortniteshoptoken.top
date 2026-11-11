@@ -14,6 +14,7 @@ const questions = [
   { question: 'How long does Pirate Shop Access last?', answer: 'Each activation lasts 14 days. The 2026 access must be activated by the deadline shown in the game, reported as December 15. A second activation is for 2027; check the dates and terms on your account.' },
   { question: 'Does opening more chests make the next chest more likely to drop a token?', answer: 'Not under the fixed-rate, independent-opening model used by our calculator. Past misses do not change the assumed probability for the next chest. No official pity mechanic is established in the sources reviewed here.' },
   { question: 'Can I check the Item Shop without owning a token?', answer: 'Yes. Our Item Shop page lets anyone browse a dated catalogue of offers and V-Bucks prices. The catalogue does not grant Pirate Shop Access or establish whether an item is included in your account’s free claims.' },
+  { question: 'What are the Pirate Shop Token chances?', answer: 'Epic has not published an exact drop rate in the sources reviewed here. The community figures 1/700,000 and 0.05% are both unverified and differ by a factor of 350.', link: { href: '/pirate-shop-token-drop-rate/#calculator', text: 'Compare these assumptions in the odds calculator' } },
 ];
 const contents = [
   ['quick-answer', 'The quick answer'], ['how-to-get', 'How to get a token'], ['drop-rates', 'The drop-rate debate'],
@@ -33,7 +34,7 @@ export default function Home() {
     }) }} />
     <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLd({
       '@context': 'https://schema.org', '@type': 'FAQPage',
-      mainEntity: questions.map(item => ({ '@type': 'Question', name: item.question, acceptedAnswer: { '@type': 'Answer', text: item.answer } })),
+      mainEntity: questions.map(item => ({ '@type': 'Question', name: item.question, acceptedAnswer: { '@type': 'Answer', text: item.answer + (item.link ? ' ' + item.link.text + '.' : '') } })),
     }) }} />
     <div className="container">
       <section className="hero" aria-labelledby="hero-title">
@@ -48,7 +49,7 @@ export default function Home() {
         <div className="hero-art hero-data"><OddsPreview /></div>
       </section>
       <aside className="shop-entry" aria-labelledby="shop-entry-title">
-        <div><p className="section-kicker">NEW / SHOP BROWSER</p><h2 id="shop-entry-title">What’s in the Item Shop?</h2><p>Browse a dated catalogue with item artwork, V-Bucks prices and filters. Check its snapshot time before planning a claim.</p></div>
+        <div><p className="section-kicker">NEW / SHOP BROWSER</p><h2 id="shop-entry-title">What’s in the Item Shop?</h2><p>Browse a dated catalogue with item artwork, V-Bucks prices and filters. Check its snapshot time before planning a claim. Browse <a href="https://fortniteshoptoken.top/fortnite-item-shop-today/">Fortnite Item Shop today</a> for the latest saved offers.</p></div>
         <a className="button button-primary" href="/fortnite-item-shop-today/">Browse Item Shop Today <span aria-hidden="true">↗</span></a>
       </aside>
       <div className="guide-layout">
@@ -117,7 +118,7 @@ export default function Home() {
           </section>
           <section id="faq">
             <p className="section-kicker">07 / QUICK CLARIFICATIONS</p><h2 className="section-heading">Before your next drop</h2>
-            <div className="faq-list">{questions.map(item => <details key={item.question}><summary>{item.question}</summary><p>{item.answer}</p></details>)}</div>
+            <div className="faq-list">{questions.map(item => <details key={item.question}><summary>{item.question}</summary><p>{item.answer}{item.link && <> <a href={item.link.href}>{item.link.text}</a>.</>}</p></details>)}</div>
           </section>
           <section id="guides">
             <p className="section-kicker">THE COMPLETE FIELD GUIDE</p><h2 className="section-heading">Go deeper on your next question.</h2>
